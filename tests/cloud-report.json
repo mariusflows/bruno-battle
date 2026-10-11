@@ -6,6 +6,7 @@
     "Concurrent device update is detected instead of overwritten",
     "Profile save failure is not reported as success",
     "Remote and local answers merge without losing either",
+    "Custom-scope battles sync in personal profile without mixing whole-unit ranking",
     "Reset cannot be undone by an old remote state and clears old ranking",
     "Deletion tombstone prevents resurrection on sync",
     "Account switch isolates local profiles"

@@ -1,0 +1,10 @@
+{
+  "passed": [
+    "Arena offers cumulative Unit 2 Volet 2 and launches the selected pool",
+    "Battle result unlocks opponent and record only for the selected scope",
+    "Changing scope does not keep a locked opponent selected",
+    "Single Volet battle contains only that Volet; reload preserves choice",
+    "Changing Arena selection preserves a paused battle original scope",
+    "Module scope records are separate and legacy whole-unit records retained"
+  ]
+}

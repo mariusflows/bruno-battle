@@ -52,3 +52,14 @@ JavaScript-Syntaxprüfung bestanden. Alle 883 Wortlisteneinträge auf erforderli
 3. Eine Runde vollständig beenden: in Statistik erscheint ein Punkt.
 4. Cloud → Jetzt synchronisieren: Erfolgsmeldung prüfen.
 5. Auf einem zweiten Gerät mit derselben Eltern-E-Mail anmelden: fertige Runden und XP prüfen.
+
+## Ergänzung 4.1: Battle-Stoffauswahl
+
+- Alle drei Stoffauswahlen jetzt direkt in der Arena verfügbar.
+- Battle starten übernimmt die Auswahl unverändert, z. B. bis Unit 2, Volet 2.
+- Gegnerfreischaltungen und Rekorde getrennt nach Umfang, Ziel-Unit, Ziel-Volet und Zusatzmodulen.
+- Wechsel des Stoffumfangs kann keinen gesperrten Gegner versehentlich ausgewählt lassen.
+- Auswahl bleibt nach Neuladen erhalten; eine pausierte Runde behält ihren ursprünglichen Stoff.
+- Alle individuellen Battles bleiben im persönlichen Cloud-Spielstand; die gemeinsame Bestenliste zeigt ganze Units ohne Zusatzmodule. Keine SQL-Änderung erforderlich.
+
+Sechs zusätzliche DOM-Tests für diese Änderungen bestanden. Die 13 DOM-Integrationstests wurden erneut ausgeführt. Die Cloud-Simulation wurde um die Trennung individueller Battle-Umfänge von der gemeinsamen Rangliste erweitert (zehn Tests bestanden). Die sechs Zusatztests aus 4.0 und die vollständige Aufgabenprüfung bleiben gültig; an Aufgabeninhalten wurde in 4.1 nichts geändert.
