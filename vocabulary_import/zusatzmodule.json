@@ -1,0 +1,1693 @@
+[
+  {
+    "id": "8cfea289a65b50e82417ceeb",
+    "unit": 1,
+    "volet": null,
+    "section_type": "module",
+    "module_number": 1,
+    "french": "le crayon de couleur",
+    "german": "der Buntstift",
+    "french_forms": [
+      "le crayon de couleur"
+    ],
+    "proper_name": false,
+    "source_page": 198,
+    "source_image": "upload/IMG_2550(1).jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "f41c6b6fa0cfaa63e3ef016a",
+    "unit": 1,
+    "volet": null,
+    "section_type": "module",
+    "module_number": 1,
+    "french": "le crayon",
+    "german": "der Bleistift",
+    "french_forms": [
+      "le crayon"
+    ],
+    "proper_name": false,
+    "source_page": 198,
+    "source_image": "upload/IMG_2550(1).jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "09fb937f040304996a32b5cd",
+    "unit": 1,
+    "volet": null,
+    "section_type": "module",
+    "module_number": 1,
+    "french": "le stylo",
+    "german": "der Kugelschreiber",
+    "french_forms": [
+      "le stylo"
+    ],
+    "proper_name": false,
+    "source_page": 198,
+    "source_image": "upload/IMG_2550(1).jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "6cbdf3b5368bcec095b003ff",
+    "unit": 1,
+    "volet": null,
+    "section_type": "module",
+    "module_number": 1,
+    "french": "l'effaceur",
+    "german": "der Tintenkiller",
+    "french_forms": [
+      "l'effaceur"
+    ],
+    "proper_name": false,
+    "source_page": 198,
+    "source_image": "upload/IMG_2550(1).jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "16c702f76f52a6e49759aefa",
+    "unit": 1,
+    "volet": null,
+    "section_type": "module",
+    "module_number": 1,
+    "french": "la règle",
+    "german": "das Lineal",
+    "french_forms": [
+      "la règle"
+    ],
+    "proper_name": false,
+    "source_page": 198,
+    "source_image": "upload/IMG_2550(1).jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "3afe1dd7a6867c2c24c3901b",
+    "unit": 1,
+    "volet": null,
+    "section_type": "module",
+    "module_number": 1,
+    "french": "le cahier",
+    "german": "das Heft",
+    "french_forms": [
+      "le cahier"
+    ],
+    "proper_name": false,
+    "source_page": 198,
+    "source_image": "upload/IMG_2550(1).jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "26ef785592cb595d9e3794c1",
+    "unit": 1,
+    "volet": null,
+    "section_type": "module",
+    "module_number": 1,
+    "french": "le papier",
+    "german": "das Papier",
+    "french_forms": [
+      "le papier"
+    ],
+    "proper_name": false,
+    "source_page": 198,
+    "source_image": "upload/IMG_2550(1).jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "39f3cfdaa96b915042a53e65",
+    "unit": 1,
+    "volet": null,
+    "section_type": "module",
+    "module_number": 1,
+    "french": "le classeur",
+    "german": "der Ordner",
+    "french_forms": [
+      "le classeur"
+    ],
+    "proper_name": false,
+    "source_page": 198,
+    "source_image": "upload/IMG_2550(1).jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "fdc361754a94f1c24e6c3b4a",
+    "unit": 1,
+    "volet": null,
+    "section_type": "module",
+    "module_number": 1,
+    "french": "Comment est-ce qu'on dit ... ?",
+    "german": "Wie sagt man ...?",
+    "french_forms": [
+      "Comment est-ce qu'on dit ... ?"
+    ],
+    "proper_name": false,
+    "source_page": 198,
+    "source_image": "upload/IMG_2550(1).jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "3e237f0440628e8130512e9d",
+    "unit": 1,
+    "volet": null,
+    "section_type": "module",
+    "module_number": 1,
+    "french": "en français / en allemand",
+    "german": "auf Französisch; auf Deutsch",
+    "french_forms": [
+      "en français",
+      "en allemand"
+    ],
+    "proper_name": false,
+    "source_page": 198,
+    "source_image": "upload/IMG_2550(1).jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "357a5acfa98ade02b5584bd5",
+    "unit": 1,
+    "volet": null,
+    "section_type": "module",
+    "module_number": 1,
+    "french": "On dit ...",
+    "german": "Man sagt ...",
+    "french_forms": [
+      "On dit ..."
+    ],
+    "proper_name": false,
+    "source_page": 198,
+    "source_image": "upload/IMG_2550(1).jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "9d024ad63bc18262c689c53b",
+    "unit": 1,
+    "volet": null,
+    "section_type": "module",
+    "module_number": 1,
+    "french": "Je ne sais pas.",
+    "german": "Ich weiß es nicht.",
+    "french_forms": [
+      "Je ne sais pas."
+    ],
+    "proper_name": false,
+    "source_page": 198,
+    "source_image": "upload/IMG_2550(1).jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "8ae04bf0101f021ebb600b2f",
+    "unit": 1,
+    "volet": null,
+    "section_type": "module",
+    "module_number": 1,
+    "french": "Comment est-ce qu'on écrit ... ?",
+    "german": "Wie schreibt man ...?",
+    "french_forms": [
+      "Comment est-ce qu'on écrit ... ?"
+    ],
+    "proper_name": false,
+    "source_page": 198,
+    "source_image": "upload/IMG_2550(1).jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "21705c737d908adb7a9dc135",
+    "unit": 1,
+    "volet": null,
+    "section_type": "module",
+    "module_number": 1,
+    "french": "On écrit ...",
+    "german": "Man schreibt ...",
+    "french_forms": [
+      "On écrit ..."
+    ],
+    "proper_name": false,
+    "source_page": 198,
+    "source_image": "upload/IMG_2550(1).jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "be1343123707db8f5f9dfd19",
+    "unit": 2,
+    "volet": null,
+    "section_type": "module",
+    "module_number": 2,
+    "french": "le rap",
+    "german": "der Rap",
+    "french_forms": [
+      "le rap"
+    ],
+    "proper_name": false,
+    "source_page": 203,
+    "source_image": "upload/IMG_2555.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "214d17305676dcfdbe6073d2",
+    "unit": 2,
+    "volet": null,
+    "section_type": "module",
+    "module_number": 2,
+    "french": "tout le monde",
+    "german": "alle",
+    "french_forms": [
+      "tout le monde"
+    ],
+    "proper_name": false,
+    "source_page": 203,
+    "source_image": "upload/IMG_2555.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "a7468c4427fc3f251ae08f38",
+    "unit": 2,
+    "volet": null,
+    "section_type": "module",
+    "module_number": 2,
+    "french": "On y va !",
+    "german": "Los geht's!",
+    "french_forms": [
+      "On y va !"
+    ],
+    "proper_name": false,
+    "source_page": 203,
+    "source_image": "upload/IMG_2555.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "43898e356366f21e7639fefa",
+    "unit": 2,
+    "volet": null,
+    "section_type": "module",
+    "module_number": 2,
+    "french": "parler",
+    "german": "sprechen",
+    "french_forms": [
+      "parler"
+    ],
+    "proper_name": false,
+    "source_page": 203,
+    "source_image": "upload/IMG_2555.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "566182bef21951fbcbaf1ad0",
+    "unit": 2,
+    "volet": null,
+    "section_type": "module",
+    "module_number": 2,
+    "french": "trop",
+    "german": "zu; zu sehr; zu viel",
+    "french_forms": [
+      "trop"
+    ],
+    "proper_name": false,
+    "source_page": 203,
+    "source_image": "upload/IMG_2555.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "adf746f9dd7adda805e8fcd4",
+    "unit": 2,
+    "volet": null,
+    "section_type": "module",
+    "module_number": 2,
+    "french": "vite",
+    "german": "schnell",
+    "french_forms": [
+      "vite"
+    ],
+    "proper_name": false,
+    "source_page": 203,
+    "source_image": "upload/IMG_2555.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "2547cad0999ba8ff9d812d60",
+    "unit": 2,
+    "volet": null,
+    "section_type": "module",
+    "module_number": 2,
+    "french": "Je ne comprends pas.",
+    "german": "Ich verstehe es nicht.",
+    "french_forms": [
+      "Je ne comprends pas."
+    ],
+    "proper_name": false,
+    "source_page": 203,
+    "source_image": "upload/IMG_2555.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "201b9c60f6ca6395fd0e0646",
+    "unit": 2,
+    "volet": null,
+    "section_type": "module",
+    "module_number": 2,
+    "french": "Vous pouvez répéter ?",
+    "german": "Können Sie das wiederholen?; Könnt ihr das wiederholen?",
+    "french_forms": [
+      "Vous pouvez répéter ?"
+    ],
+    "proper_name": false,
+    "source_page": 203,
+    "source_image": "upload/IMG_2555.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "0e77b2abf19b57021389ef64",
+    "unit": 2,
+    "volet": null,
+    "section_type": "module",
+    "module_number": 2,
+    "french": "répéter (qc)",
+    "german": "(etwas) wiederholen; nachsprechen",
+    "french_forms": [
+      "répéter (qc)"
+    ],
+    "proper_name": false,
+    "source_page": 203,
+    "source_image": "upload/IMG_2555.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "54d0ecccae26ab38883590f4",
+    "unit": 2,
+    "volet": null,
+    "section_type": "module",
+    "module_number": 2,
+    "french": "fermer (qc)",
+    "german": "(etwas) schließen; zumachen",
+    "french_forms": [
+      "fermer (qc)"
+    ],
+    "proper_name": false,
+    "source_page": 203,
+    "source_image": "upload/IMG_2555.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "13b8ee95ace9e4648984d649",
+    "unit": 2,
+    "volet": null,
+    "section_type": "module",
+    "module_number": 2,
+    "french": "le livre",
+    "german": "das Buch",
+    "french_forms": [
+      "le livre"
+    ],
+    "proper_name": false,
+    "source_page": 203,
+    "source_image": "upload/IMG_2555.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "8300fd93eadaec8c3ed6b504",
+    "unit": 2,
+    "volet": null,
+    "section_type": "module",
+    "module_number": 2,
+    "french": "le tableau / les tableaux",
+    "german": "die Schultafel",
+    "french_forms": [
+      "le tableau",
+      "les tableaux"
+    ],
+    "proper_name": false,
+    "source_page": 203,
+    "source_image": "upload/IMG_2555.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "3c2fc79e4e93c7e808d22ea9",
+    "unit": 2,
+    "volet": null,
+    "section_type": "module",
+    "module_number": 2,
+    "french": "encore une fois",
+    "german": "noch einmal",
+    "french_forms": [
+      "encore une fois"
+    ],
+    "proper_name": false,
+    "source_page": 203,
+    "source_image": "upload/IMG_2555.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "c6af7e8dc13a145c6a955ab9",
+    "unit": 2,
+    "volet": null,
+    "section_type": "module",
+    "module_number": 2,
+    "french": "ouvrez",
+    "german": "Öffnet!; Macht auf!; Öffnen Sie!",
+    "french_forms": [
+      "ouvrez"
+    ],
+    "proper_name": false,
+    "source_page": 204,
+    "source_image": "upload/IMG_2556.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "3ee116071c5e3e47fc0ead87",
+    "unit": 2,
+    "volet": null,
+    "section_type": "module",
+    "module_number": 2,
+    "french": "lisez",
+    "german": "Lest!; Lesen Sie!",
+    "french_forms": [
+      "lisez"
+    ],
+    "proper_name": false,
+    "source_page": 204,
+    "source_image": "upload/IMG_2556.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "fd8b6388ee4ac69eb6f6d57f",
+    "unit": 2,
+    "volet": null,
+    "section_type": "module",
+    "module_number": 2,
+    "french": "lire qc",
+    "german": "etwas lesen",
+    "french_forms": [
+      "lire qc"
+    ],
+    "proper_name": false,
+    "source_page": 204,
+    "source_image": "upload/IMG_2556.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "9a0fc42c30218af26eb27c5a",
+    "unit": 2,
+    "volet": null,
+    "section_type": "module",
+    "module_number": 2,
+    "french": "le texte",
+    "german": "der Text",
+    "french_forms": [
+      "le texte"
+    ],
+    "proper_name": false,
+    "source_page": 204,
+    "source_image": "upload/IMG_2556.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "d5a81a5417cfb162a5c7ea30",
+    "unit": 2,
+    "volet": null,
+    "section_type": "module",
+    "module_number": 2,
+    "french": "écrivez",
+    "german": "Schreibt!; Schreiben Sie!",
+    "french_forms": [
+      "écrivez"
+    ],
+    "proper_name": false,
+    "source_page": 204,
+    "source_image": "upload/IMG_2556.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "783d8b6d6f950b3c788f2f3c",
+    "unit": 2,
+    "volet": null,
+    "section_type": "module",
+    "module_number": 2,
+    "french": "écrire qc",
+    "german": "etwas schreiben",
+    "french_forms": [
+      "écrire qc"
+    ],
+    "proper_name": false,
+    "source_page": 204,
+    "source_image": "upload/IMG_2556.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "f33bf1db6ab67682f71709d3",
+    "unit": 2,
+    "volet": null,
+    "section_type": "module",
+    "module_number": 2,
+    "french": "continuer",
+    "german": "weitermachen",
+    "french_forms": [
+      "continuer"
+    ],
+    "proper_name": false,
+    "source_page": 204,
+    "source_image": "upload/IMG_2556.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "2a90c0efc0314332cae47099",
+    "unit": 2,
+    "volet": null,
+    "section_type": "module",
+    "module_number": 2,
+    "french": "la fenêtre",
+    "german": "das Fenster",
+    "french_forms": [
+      "la fenêtre"
+    ],
+    "proper_name": false,
+    "source_page": 204,
+    "source_image": "upload/IMG_2556.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "b56c7bf4ba2ad72092f81c1a",
+    "unit": 2,
+    "volet": null,
+    "section_type": "module",
+    "module_number": 2,
+    "french": "la porte",
+    "german": "die Tür",
+    "french_forms": [
+      "la porte"
+    ],
+    "proper_name": false,
+    "source_page": 204,
+    "source_image": "upload/IMG_2556.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "295d107d652211c8e1fc0776",
+    "unit": 2,
+    "volet": null,
+    "section_type": "module",
+    "module_number": 2,
+    "french": "le mot",
+    "german": "das Wort",
+    "french_forms": [
+      "le mot"
+    ],
+    "proper_name": false,
+    "source_page": 204,
+    "source_image": "upload/IMG_2556.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "bea025995418f6ade659b805",
+    "unit": 2,
+    "volet": null,
+    "section_type": "module",
+    "module_number": 2,
+    "french": "la phrase",
+    "german": "der Satz",
+    "french_forms": [
+      "la phrase"
+    ],
+    "proper_name": false,
+    "source_page": 204,
+    "source_image": "upload/IMG_2556.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "a07835b6921bd7f7a9483436",
+    "unit": 3,
+    "volet": null,
+    "section_type": "module",
+    "module_number": 3,
+    "french": "Parle plus fort !",
+    "german": "Sprich lauter!",
+    "french_forms": [
+      "Parle plus fort !"
+    ],
+    "proper_name": false,
+    "source_page": 211,
+    "source_image": "project_sources/03-IMG_2563.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "2ef26a842a9425ad68564915",
+    "unit": 3,
+    "volet": null,
+    "section_type": "module",
+    "module_number": 3,
+    "french": "la question",
+    "german": "die Frage",
+    "french_forms": [
+      "la question"
+    ],
+    "proper_name": false,
+    "source_page": 211,
+    "source_image": "project_sources/03-IMG_2563.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "2189450c02d5768da2f8aed6",
+    "unit": 3,
+    "volet": null,
+    "section_type": "module",
+    "module_number": 3,
+    "french": "Est-ce que je peux + inf.",
+    "german": "Darf ich ...?",
+    "french_forms": [
+      "Est-ce que je peux + inf."
+    ],
+    "proper_name": false,
+    "source_page": 211,
+    "source_image": "project_sources/03-IMG_2563.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "78600d503270e9d7b5ba0a09",
+    "unit": 3,
+    "volet": null,
+    "section_type": "module",
+    "module_number": 3,
+    "french": "l'exercice",
+    "german": "die Übung",
+    "french_forms": [
+      "l'exercice"
+    ],
+    "proper_name": false,
+    "source_page": 211,
+    "source_image": "project_sources/03-IMG_2563.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "426381017897c7ed60f052b2",
+    "unit": 3,
+    "volet": null,
+    "section_type": "module",
+    "module_number": 3,
+    "french": "Je n'ai pas mes devoirs.",
+    "german": "Ich habe meine Hausaufgaben nicht.",
+    "french_forms": [
+      "Je n'ai pas mes devoirs."
+    ],
+    "proper_name": false,
+    "source_page": 211,
+    "source_image": "project_sources/03-IMG_2563.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "57ffa14ed104a5f4f13d95b6",
+    "unit": 3,
+    "volet": null,
+    "section_type": "module",
+    "module_number": 3,
+    "french": "C'est juste ?",
+    "german": "Ist das richtig?; Stimmt das?",
+    "french_forms": [
+      "C'est juste ?"
+    ],
+    "proper_name": false,
+    "source_page": 211,
+    "source_image": "project_sources/03-IMG_2563.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "b90e824257ae51584c0db2dc",
+    "unit": 3,
+    "volet": null,
+    "section_type": "module",
+    "module_number": 3,
+    "french": "On travaille ensemble ?",
+    "german": "Wollen wir zusammen arbeiten?",
+    "french_forms": [
+      "On travaille ensemble ?"
+    ],
+    "proper_name": false,
+    "source_page": 211,
+    "source_image": "project_sources/03-IMG_2563.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "03b5925a5c67bddd229d1ff7",
+    "unit": 3,
+    "volet": null,
+    "section_type": "module",
+    "module_number": 3,
+    "french": "d'accord",
+    "german": "einverstanden",
+    "french_forms": [
+      "d'accord"
+    ],
+    "proper_name": false,
+    "source_page": 211,
+    "source_image": "project_sources/03-IMG_2563.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "ca780cc9e332852fd138560a",
+    "unit": 3,
+    "volet": null,
+    "section_type": "module",
+    "module_number": 3,
+    "french": "Qu'est-ce que ça veut dire ?",
+    "german": "Was bedeutet das?",
+    "french_forms": [
+      "Qu'est-ce que ça veut dire ?"
+    ],
+    "proper_name": false,
+    "source_page": 211,
+    "source_image": "project_sources/03-IMG_2563.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "b9b3238b22fce02cf5b2de5f",
+    "unit": 3,
+    "volet": null,
+    "section_type": "module",
+    "module_number": 3,
+    "french": "Ça veut dire ...",
+    "german": "Das bedeutet ...",
+    "french_forms": [
+      "Ça veut dire ..."
+    ],
+    "proper_name": false,
+    "source_page": 211,
+    "source_image": "project_sources/03-IMG_2563.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "a8bbded4451a6dab1eff4e04",
+    "unit": 3,
+    "volet": null,
+    "section_type": "module",
+    "module_number": 3,
+    "french": "Qui commence ?",
+    "german": "Wer fängt an?; Wer beginnt?",
+    "french_forms": [
+      "Qui commence ?"
+    ],
+    "proper_name": false,
+    "source_page": 211,
+    "source_image": "project_sources/03-IMG_2563.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "a09439f8ae38dd60f6551bc2",
+    "unit": 3,
+    "volet": null,
+    "section_type": "module",
+    "module_number": 3,
+    "french": "Qui note ?",
+    "german": "Wer schreibt das auf?",
+    "french_forms": [
+      "Qui note ?"
+    ],
+    "proper_name": false,
+    "source_page": 211,
+    "source_image": "project_sources/03-IMG_2563.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "44552dbd0e3da5a45c6e66bb",
+    "unit": 3,
+    "volet": null,
+    "section_type": "module",
+    "module_number": 3,
+    "french": "lundi",
+    "german": "Montag; am Montag",
+    "french_forms": [
+      "lundi"
+    ],
+    "proper_name": false,
+    "source_page": 211,
+    "source_image": "project_sources/03-IMG_2563.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "0905fd2b498cac00602d4594",
+    "unit": 3,
+    "volet": null,
+    "section_type": "module",
+    "module_number": 3,
+    "french": "mardi",
+    "german": "Dienstag",
+    "french_forms": [
+      "mardi"
+    ],
+    "proper_name": false,
+    "source_page": 211,
+    "source_image": "project_sources/03-IMG_2563.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "762f4b6f0a419ef8b93354c0",
+    "unit": 3,
+    "volet": null,
+    "section_type": "module",
+    "module_number": 3,
+    "french": "mercredi",
+    "german": "Mittwoch",
+    "french_forms": [
+      "mercredi"
+    ],
+    "proper_name": false,
+    "source_page": 211,
+    "source_image": "project_sources/03-IMG_2563.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "55a04d669d42191a3edcb2f1",
+    "unit": 3,
+    "volet": null,
+    "section_type": "module",
+    "module_number": 3,
+    "french": "jeudi",
+    "german": "Donnerstag",
+    "french_forms": [
+      "jeudi"
+    ],
+    "proper_name": false,
+    "source_page": 211,
+    "source_image": "project_sources/03-IMG_2563.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "9789c8285f141eaf4ed5cc64",
+    "unit": 3,
+    "volet": null,
+    "section_type": "module",
+    "module_number": 3,
+    "french": "vendredi",
+    "german": "Freitag",
+    "french_forms": [
+      "vendredi"
+    ],
+    "proper_name": false,
+    "source_page": 211,
+    "source_image": "project_sources/03-IMG_2563.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "c1bd0b54cfd6f15d854a2224",
+    "unit": 3,
+    "volet": null,
+    "section_type": "module",
+    "module_number": 3,
+    "french": "samedi",
+    "german": "Samstag",
+    "french_forms": [
+      "samedi"
+    ],
+    "proper_name": false,
+    "source_page": 211,
+    "source_image": "project_sources/03-IMG_2563.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "368c7f219c655b0a8b0a6b16",
+    "unit": 3,
+    "volet": null,
+    "section_type": "module",
+    "module_number": 3,
+    "french": "dimanche",
+    "german": "Sonntag",
+    "french_forms": [
+      "dimanche"
+    ],
+    "proper_name": false,
+    "source_page": 211,
+    "source_image": "project_sources/03-IMG_2563.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "8d2d76e06f949cab2e78aecc",
+    "unit": 3,
+    "volet": null,
+    "section_type": "module",
+    "module_number": 3,
+    "french": "Tu es libre aujourd'hui ?",
+    "german": "Hast du heute Zeit?; Bist du heute frei?",
+    "french_forms": [
+      "Tu es libre aujourd'hui ?"
+    ],
+    "proper_name": false,
+    "source_page": 211,
+    "source_image": "project_sources/03-IMG_2563.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "531a20732af69c69beef1ae2",
+    "unit": 3,
+    "volet": null,
+    "section_type": "module",
+    "module_number": 3,
+    "french": "aujourd'hui",
+    "german": "heute",
+    "french_forms": [
+      "aujourd'hui"
+    ],
+    "proper_name": false,
+    "source_page": 211,
+    "source_image": "project_sources/03-IMG_2563.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "72c7c38e5079c0122933ce9e",
+    "unit": 3,
+    "volet": null,
+    "section_type": "module",
+    "module_number": 3,
+    "french": "Tu as le temps aujourd'hui ?",
+    "german": "Hast du heute Zeit?",
+    "french_forms": [
+      "Tu as le temps aujourd'hui ?"
+    ],
+    "proper_name": false,
+    "source_page": 211,
+    "source_image": "project_sources/03-IMG_2563.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "792c0066709c59029dc8901a",
+    "unit": 3,
+    "volet": null,
+    "section_type": "module",
+    "module_number": 3,
+    "french": "le temps",
+    "german": "die Zeit",
+    "french_forms": [
+      "le temps"
+    ],
+    "proper_name": false,
+    "source_page": 211,
+    "source_image": "project_sources/03-IMG_2563.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "97cb0e38c27e129a7943abe1",
+    "unit": 3,
+    "volet": null,
+    "section_type": "module",
+    "module_number": 3,
+    "french": "si ça te dit",
+    "german": "wenn du Lust hast",
+    "french_forms": [
+      "si ça te dit"
+    ],
+    "proper_name": false,
+    "source_page": 211,
+    "source_image": "project_sources/03-IMG_2563.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "72749ee508d7bd8d1eec7fb2",
+    "unit": 3,
+    "volet": null,
+    "section_type": "module",
+    "module_number": 4,
+    "french": "Il est quelle heure ?",
+    "german": "Wie spät ist es?",
+    "french_forms": [
+      "Il est quelle heure ?"
+    ],
+    "proper_name": false,
+    "source_page": 212,
+    "source_image": "project_sources/05-IMG_2564.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "f72e80d876d4049bd62aaf68",
+    "unit": 3,
+    "volet": null,
+    "section_type": "module",
+    "module_number": 4,
+    "french": "l'heure",
+    "german": "die Stunde; Uhr (zur Angabe der Uhrzeit)",
+    "french_forms": [
+      "l'heure"
+    ],
+    "proper_name": false,
+    "source_page": 212,
+    "source_image": "project_sources/05-IMG_2564.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "d755ec6e9193bb6b9e343905",
+    "unit": 3,
+    "volet": null,
+    "section_type": "module",
+    "module_number": 4,
+    "french": "à ... heures",
+    "german": "um ... Uhr",
+    "french_forms": [
+      "à ... heures"
+    ],
+    "proper_name": false,
+    "source_page": 212,
+    "source_image": "project_sources/05-IMG_2564.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "e42ea78b18791d3d287df1ef",
+    "unit": 3,
+    "volet": null,
+    "section_type": "module",
+    "module_number": 4,
+    "french": "moins le quart",
+    "german": "Viertel vor",
+    "french_forms": [
+      "moins le quart"
+    ],
+    "proper_name": false,
+    "source_page": 212,
+    "source_image": "project_sources/05-IMG_2564.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "da826d9c7969bd6d229fd7ab",
+    "unit": 3,
+    "volet": null,
+    "section_type": "module",
+    "module_number": 4,
+    "french": "le quart",
+    "german": "die Viertelstunde",
+    "french_forms": [
+      "le quart"
+    ],
+    "proper_name": false,
+    "source_page": 212,
+    "source_image": "project_sources/05-IMG_2564.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "11a593df3ec2f2519175252d",
+    "unit": 3,
+    "volet": null,
+    "section_type": "module",
+    "module_number": 4,
+    "french": "le film",
+    "german": "der Film",
+    "french_forms": [
+      "le film"
+    ],
+    "proper_name": false,
+    "source_page": 212,
+    "source_image": "project_sources/05-IMG_2564.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "82ca26d56ea28c02b9ff8bc4",
+    "unit": 3,
+    "volet": null,
+    "section_type": "module",
+    "module_number": 4,
+    "french": "demi / demie",
+    "german": "halb",
+    "french_forms": [
+      "demi",
+      "demie"
+    ],
+    "proper_name": false,
+    "source_page": 212,
+    "source_image": "project_sources/05-IMG_2564.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "303660d5b4fd4ac72c880f48",
+    "unit": 3,
+    "volet": null,
+    "section_type": "module",
+    "module_number": 4,
+    "french": "et quart",
+    "german": "Viertel nach",
+    "french_forms": [
+      "et quart"
+    ],
+    "proper_name": false,
+    "source_page": 212,
+    "source_image": "project_sources/05-IMG_2564.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "4fbce5c5d1f36c5767259f76",
+    "unit": 3,
+    "volet": null,
+    "section_type": "module",
+    "module_number": 4,
+    "french": "midi",
+    "german": "12 Uhr mittags",
+    "french_forms": [
+      "midi"
+    ],
+    "proper_name": false,
+    "source_page": 212,
+    "source_image": "project_sources/05-IMG_2564.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "2cef6469ecd13e1a79f89140",
+    "unit": 3,
+    "volet": null,
+    "section_type": "module",
+    "module_number": 4,
+    "french": "à midi",
+    "german": "um 12 Uhr mittags",
+    "french_forms": [
+      "à midi"
+    ],
+    "proper_name": false,
+    "source_page": 212,
+    "source_image": "project_sources/05-IMG_2564.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "213820f009b4b109b96d90af",
+    "unit": 3,
+    "volet": null,
+    "section_type": "module",
+    "module_number": 4,
+    "french": "minuit",
+    "german": "Mitternacht",
+    "french_forms": [
+      "minuit"
+    ],
+    "proper_name": false,
+    "source_page": 212,
+    "source_image": "project_sources/05-IMG_2564.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "26a21802709d4d500a9b8058",
+    "unit": 3,
+    "volet": null,
+    "section_type": "module",
+    "module_number": 4,
+    "french": "à minuit",
+    "german": "um Mitternacht",
+    "french_forms": [
+      "à minuit"
+    ],
+    "proper_name": false,
+    "source_page": 212,
+    "source_image": "project_sources/05-IMG_2564.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "a70806f14e85fca4b6792be8",
+    "unit": 3,
+    "volet": null,
+    "section_type": "module",
+    "module_number": 4,
+    "french": "arriver",
+    "german": "ankommen",
+    "french_forms": [
+      "arriver"
+    ],
+    "proper_name": false,
+    "source_page": 212,
+    "source_image": "project_sources/05-IMG_2564.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "d283c30ba136fe148b59db6c",
+    "unit": 3,
+    "volet": null,
+    "section_type": "module",
+    "module_number": 4,
+    "french": "À quelle heure ?",
+    "german": "Um wie viel Uhr?",
+    "french_forms": [
+      "À quelle heure ?"
+    ],
+    "proper_name": false,
+    "source_page": 213,
+    "source_image": "project_sources/07-IMG_2565.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "28bcf1426cd10eafe8e27ece",
+    "unit": 3,
+    "volet": null,
+    "section_type": "module",
+    "module_number": 4,
+    "french": "à l'heure",
+    "german": "pünktlich",
+    "french_forms": [
+      "à l'heure"
+    ],
+    "proper_name": false,
+    "source_page": 213,
+    "source_image": "project_sources/07-IMG_2565.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "98f9a40ad3f24f020aa08598",
+    "unit": 6,
+    "volet": null,
+    "section_type": "module",
+    "module_number": 7,
+    "french": "la fête des Rois",
+    "german": "der Dreikönigstag (6. Januar)",
+    "french_forms": [
+      "la fête des Rois"
+    ],
+    "proper_name": false,
+    "source_page": 228,
+    "source_image": "upload/IMG_2580.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "89ff52f06ffac33a00a7dd68",
+    "unit": 6,
+    "volet": null,
+    "section_type": "module",
+    "module_number": 7,
+    "french": "la Chandeleur",
+    "german": "Lichtmess",
+    "french_forms": [
+      "la Chandeleur"
+    ],
+    "proper_name": false,
+    "source_page": 228,
+    "source_image": "upload/IMG_2580.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "876538365350ad51ddeb1877",
+    "unit": 6,
+    "volet": null,
+    "section_type": "module",
+    "module_number": 7,
+    "french": "Pâques",
+    "german": "Ostern",
+    "french_forms": [
+      "Pâques"
+    ],
+    "proper_name": false,
+    "source_page": 228,
+    "source_image": "upload/IMG_2580.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "7928159385937c30e18a511a",
+    "unit": 6,
+    "volet": null,
+    "section_type": "module",
+    "module_number": 7,
+    "french": "la fête nationale",
+    "german": "der Nationalfeiertag",
+    "french_forms": [
+      "la fête nationale"
+    ],
+    "proper_name": false,
+    "source_page": 228,
+    "source_image": "upload/IMG_2580.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "4fad28778ba9c102fbd958d9",
+    "unit": 6,
+    "volet": null,
+    "section_type": "module",
+    "module_number": 7,
+    "french": "Noël",
+    "german": "Weihnachten",
+    "french_forms": [
+      "Noël"
+    ],
+    "proper_name": false,
+    "source_page": 228,
+    "source_image": "upload/IMG_2580.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "7e4a2b321805dbc01664e45a",
+    "unit": 6,
+    "volet": null,
+    "section_type": "module",
+    "module_number": 7,
+    "french": "le Nouvel An",
+    "german": "Neujahr",
+    "french_forms": [
+      "le Nouvel An"
+    ],
+    "proper_name": false,
+    "source_page": 228,
+    "source_image": "upload/IMG_2580.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "a3bccce65f111f1138c2f535",
+    "unit": 7,
+    "volet": null,
+    "section_type": "module",
+    "module_number": 8,
+    "french": "la gare",
+    "german": "der Bahnhof",
+    "french_forms": [
+      "la gare"
+    ],
+    "proper_name": false,
+    "source_page": 234,
+    "source_image": "upload/IMG_2586.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "82630328913d2e82d6b9d5aa",
+    "unit": 7,
+    "volet": null,
+    "section_type": "module",
+    "module_number": 8,
+    "french": "la voie",
+    "german": "das Gleis",
+    "french_forms": [
+      "la voie"
+    ],
+    "proper_name": false,
+    "source_page": 234,
+    "source_image": "upload/IMG_2586.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "084265d14cc9550b99d4a7c0",
+    "unit": 7,
+    "volet": null,
+    "section_type": "module",
+    "module_number": 8,
+    "french": "le train",
+    "german": "der Zug",
+    "french_forms": [
+      "le train"
+    ],
+    "proper_name": false,
+    "source_page": 234,
+    "source_image": "upload/IMG_2586.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "cf6669a77c7c128ce448b166",
+    "unit": 7,
+    "volet": null,
+    "section_type": "module",
+    "module_number": 8,
+    "french": "le contrôleur",
+    "german": "der Schaffner",
+    "french_forms": [
+      "le contrôleur"
+    ],
+    "proper_name": false,
+    "source_page": 234,
+    "source_image": "upload/IMG_2586.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "bb358eb3aaab008e517ebfcf",
+    "unit": 7,
+    "volet": null,
+    "section_type": "module",
+    "module_number": 8,
+    "french": "la voiture",
+    "german": "der Waggon; der Wagen; auch: das Auto",
+    "french_forms": [
+      "la voiture"
+    ],
+    "proper_name": false,
+    "source_page": 234,
+    "source_image": "upload/IMG_2586.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "44c1933480603964f981c897",
+    "unit": 7,
+    "volet": null,
+    "section_type": "module",
+    "module_number": 8,
+    "french": "le composteur",
+    "german": "der Entwerter für Fahrkarten",
+    "french_forms": [
+      "le composteur"
+    ],
+    "proper_name": false,
+    "source_page": 234,
+    "source_image": "upload/IMG_2586.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "997df270762305ad2886aa23",
+    "unit": 7,
+    "volet": null,
+    "section_type": "module",
+    "module_number": 8,
+    "french": "la valise",
+    "german": "der Koffer",
+    "french_forms": [
+      "la valise"
+    ],
+    "proper_name": false,
+    "source_page": 234,
+    "source_image": "upload/IMG_2586.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "53d252ca6ec907ea4609ec12",
+    "unit": 7,
+    "volet": null,
+    "section_type": "module",
+    "module_number": 8,
+    "french": "le billet",
+    "german": "die Fahrkarte",
+    "french_forms": [
+      "le billet"
+    ],
+    "proper_name": false,
+    "source_page": 234,
+    "source_image": "upload/IMG_2586.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "889650f5ec3aedfdadd6f472",
+    "unit": 7,
+    "volet": null,
+    "section_type": "module",
+    "module_number": 8,
+    "french": "le quai",
+    "german": "der Bahnsteig",
+    "french_forms": [
+      "le quai"
+    ],
+    "proper_name": false,
+    "source_page": 234,
+    "source_image": "upload/IMG_2586.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "2da3391ebb60038fe6257317",
+    "unit": 7,
+    "volet": null,
+    "section_type": "module",
+    "module_number": 8,
+    "french": "l'aller simple / les allers simples",
+    "german": "die einfache Fahrt; die Hinfahrkarte",
+    "french_forms": [
+      "l'aller simple",
+      "les allers simples"
+    ],
+    "proper_name": false,
+    "source_page": 234,
+    "source_image": "upload/IMG_2586.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "08ed1c4aa38538945e758fc2",
+    "unit": 7,
+    "volet": null,
+    "section_type": "module",
+    "module_number": 8,
+    "french": "l'aller-retour / les allers-retours",
+    "german": "die Hin- und Rückfahrt; die Hin- und Rückfahrkarte",
+    "french_forms": [
+      "l'aller-retour",
+      "les allers-retours"
+    ],
+    "proper_name": false,
+    "source_page": 234,
+    "source_image": "upload/IMG_2586.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "a288702666486ab938569143",
+    "unit": 7,
+    "volet": null,
+    "section_type": "module",
+    "module_number": 8,
+    "french": "ce / cet / cette / ces",
+    "german": "dieser; diese; dieses",
+    "french_forms": [
+      "ce",
+      "cet",
+      "cette",
+      "ces"
+    ],
+    "proper_name": false,
+    "source_page": 234,
+    "source_image": "upload/IMG_2586.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "89bdb7d44df311910288883a",
+    "unit": 7,
+    "volet": null,
+    "section_type": "module",
+    "module_number": 8,
+    "french": "ce matin",
+    "german": "heute Morgen",
+    "french_forms": [
+      "ce matin"
+    ],
+    "proper_name": false,
+    "source_page": 234,
+    "source_image": "upload/IMG_2586.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "6911528f9e681275eacdf793",
+    "unit": 7,
+    "volet": null,
+    "section_type": "module",
+    "module_number": 8,
+    "french": "cet après-midi",
+    "german": "heute Nachmittag",
+    "french_forms": [
+      "cet après-midi"
+    ],
+    "proper_name": false,
+    "source_page": 234,
+    "source_image": "upload/IMG_2586.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "642443ec2e0ea7ca387b42d6",
+    "unit": 7,
+    "volet": null,
+    "section_type": "module",
+    "module_number": 8,
+    "french": "ce soir",
+    "german": "heute Abend",
+    "french_forms": [
+      "ce soir"
+    ],
+    "proper_name": false,
+    "source_page": 234,
+    "source_image": "upload/IMG_2586.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "9c969efc70d7863e270cf55e",
+    "unit": 7,
+    "volet": null,
+    "section_type": "module",
+    "module_number": 8,
+    "french": "cette semaine",
+    "german": "diese Woche",
+    "french_forms": [
+      "cette semaine"
+    ],
+    "proper_name": false,
+    "source_page": 234,
+    "source_image": "upload/IMG_2586.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  }
+]

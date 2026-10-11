@@ -1,0 +1,43 @@
+{
+  "book": "À plus! 1 – Gymnasium Bayern – Nouvelle édition",
+  "languages": {
+    "source": "fr",
+    "target": "de"
+  },
+  "source_pages": [
+    194,
+    238
+  ],
+  "total_entries": 883,
+  "unit_entry_counts": {
+    "1": 80,
+    "2": 96,
+    "3": 135,
+    "4": 94,
+    "5": 98,
+    "6": 97,
+    "7": 106,
+    "8": 78
+  },
+  "module_entry_counts": {
+    "1": 14,
+    "2": 24,
+    "3": 24,
+    "4": 15,
+    "7": 6,
+    "8": 16
+  },
+  "coverage": "visible_source_only",
+  "known_gaps": [],
+  "processing_notes": [
+    "Doppelte Fotos nicht mehrfach übernommen.",
+    "Gedruckte Wortlistenzeilen sowie ausgewählte Lernkästen (Zahlen, Monate, Wetter und Zeitangaben) erfasst.",
+    "Keine phonetische Umschrift und keine Beispielsätze übertragen.",
+    "Kursivdruck bzw. fakultativer Wortschatz wird nicht separat klassifiziert.",
+    "Zusammengehörige Formen bleiben in einer Karte. french_forms ist eine Formenliste, keine Liste austauschbarer Antworten.",
+    "unit bei Zusatzmodulen bezeichnet die Unité, nach der der Wortschatz als bekannt gilt.",
+    "Personen- und Ortsnamen sowie benannte Einrichtungen sind als proper_name markiert.",
+    "Quellbilder sind referenziert, nicht im Paket enthalten.",
+    "Seite 198 laut Nutzer vollständig; oberhalb fehlen keine Vokabeln."
+  ]
+}

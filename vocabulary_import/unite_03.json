@@ -1,0 +1,2310 @@
+[
+  {
+    "id": "3779df17b6c9bb1ab41fbb8c",
+    "unit": 3,
+    "volet": 1,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "ma",
+    "german": "mein; meine (vor weiblichem Nomen im Singular)",
+    "french_forms": [
+      "ma"
+    ],
+    "proper_name": false,
+    "source_page": 204,
+    "source_image": "upload/IMG_2556.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "a1e6979914d366fe2490e011",
+    "unit": 3,
+    "volet": 1,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "la famille",
+    "german": "die Familie",
+    "french_forms": [
+      "la famille"
+    ],
+    "proper_name": false,
+    "source_page": 204,
+    "source_image": "upload/IMG_2556.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "865abb7ea72c42aef888d473",
+    "unit": 3,
+    "volet": 1,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "la sœur",
+    "german": "die Schwester",
+    "french_forms": [
+      "la sœur"
+    ],
+    "proper_name": false,
+    "source_page": 204,
+    "source_image": "upload/IMG_2556.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "4ba0d3e27882f3ffd96c6e03",
+    "unit": 3,
+    "volet": 1,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "mon",
+    "german": "mein; meine (vor männlichem Nomen oder weiblichem Nomen mit Vokalbeginn im Singular)",
+    "french_forms": [
+      "mon"
+    ],
+    "proper_name": false,
+    "source_page": 204,
+    "source_image": "upload/IMG_2556.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "c048223c5c46c6f645810ccf",
+    "unit": 3,
+    "volet": 1,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "le frère",
+    "german": "der Bruder",
+    "french_forms": [
+      "le frère"
+    ],
+    "proper_name": false,
+    "source_page": 204,
+    "source_image": "upload/IMG_2556.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "260e9f0b18d7ff3121175352",
+    "unit": 3,
+    "volet": 1,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "mes",
+    "german": "meine (vor Nomen im Plural)",
+    "french_forms": [
+      "mes"
+    ],
+    "proper_name": false,
+    "source_page": 204,
+    "source_image": "upload/IMG_2556.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "3011e2b6bb488b39daa34b7d",
+    "unit": 3,
+    "volet": 1,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "les parents",
+    "german": "die Eltern",
+    "french_forms": [
+      "les parents"
+    ],
+    "proper_name": false,
+    "source_page": 204,
+    "source_image": "upload/IMG_2556.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "c8e4964bd05e23c63493ce75",
+    "unit": 3,
+    "volet": 1,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "le père",
+    "german": "der Vater",
+    "french_forms": [
+      "le père"
+    ],
+    "proper_name": false,
+    "source_page": 205,
+    "source_image": "project_sources/12-IMG_2557.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "f1fe24b46f96a8d80bd89ed3",
+    "unit": 3,
+    "volet": 1,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "la mère",
+    "german": "die Mutter",
+    "french_forms": [
+      "la mère"
+    ],
+    "proper_name": false,
+    "source_page": 205,
+    "source_image": "project_sources/12-IMG_2557.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "660b2f4cbcb7da32589ced23",
+    "unit": 3,
+    "volet": 1,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "le cousin / la cousine",
+    "german": "der Cousin; die Cousine",
+    "french_forms": [
+      "le cousin",
+      "la cousine"
+    ],
+    "proper_name": false,
+    "source_page": 205,
+    "source_image": "project_sources/12-IMG_2557.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "d91a88b4886f44e240ace8cb",
+    "unit": 3,
+    "volet": 1,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "le fils",
+    "german": "der Sohn",
+    "french_forms": [
+      "le fils"
+    ],
+    "proper_name": false,
+    "source_page": 205,
+    "source_image": "project_sources/12-IMG_2557.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "7f03edab1b1515478157ffbb",
+    "unit": 3,
+    "volet": 1,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "la tante",
+    "german": "die Tante",
+    "french_forms": [
+      "la tante"
+    ],
+    "proper_name": false,
+    "source_page": 205,
+    "source_image": "project_sources/12-IMG_2557.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "ee462653dde27f85a2f13810",
+    "unit": 3,
+    "volet": 1,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "ce sont",
+    "german": "das sind",
+    "french_forms": [
+      "ce sont"
+    ],
+    "proper_name": false,
+    "source_page": 205,
+    "source_image": "project_sources/12-IMG_2557.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "931d73c2c7473f3f158a4fc9",
+    "unit": 3,
+    "volet": 1,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "la fille",
+    "german": "die Tochter; das Mädchen",
+    "french_forms": [
+      "la fille"
+    ],
+    "proper_name": false,
+    "source_page": 205,
+    "source_image": "project_sources/12-IMG_2557.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "a9714da934a42332c910a97c",
+    "unit": 3,
+    "volet": 1,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "l'oncle",
+    "german": "der Onkel",
+    "french_forms": [
+      "l'oncle"
+    ],
+    "proper_name": false,
+    "source_page": 205,
+    "source_image": "project_sources/12-IMG_2557.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "0473b09790bb57dbf9a05ec6",
+    "unit": 3,
+    "volet": 1,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "les grands-parents",
+    "german": "die Großeltern",
+    "french_forms": [
+      "les grands-parents"
+    ],
+    "proper_name": false,
+    "source_page": 205,
+    "source_image": "project_sources/12-IMG_2557.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "2bbba3db0b55ac716b2e9f7e",
+    "unit": 3,
+    "volet": 1,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "la grand-mère",
+    "german": "die Großmutter",
+    "french_forms": [
+      "la grand-mère"
+    ],
+    "proper_name": false,
+    "source_page": 205,
+    "source_image": "project_sources/12-IMG_2557.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "ff37c967d79263502ee08cfe",
+    "unit": 3,
+    "volet": 1,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "le grand-père",
+    "german": "der Großvater",
+    "french_forms": [
+      "le grand-père"
+    ],
+    "proper_name": false,
+    "source_page": 205,
+    "source_image": "project_sources/12-IMG_2557.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "9e7bdad0f96301921d54dc20",
+    "unit": 3,
+    "volet": 1,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "l'arrière-grand-mère",
+    "german": "die Urgroßmutter",
+    "french_forms": [
+      "l'arrière-grand-mère"
+    ],
+    "proper_name": false,
+    "source_page": 205,
+    "source_image": "project_sources/12-IMG_2557.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "38ee2338062e3923a0a0e735",
+    "unit": 3,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "ton",
+    "german": "dein; deine (vor männlichem Nomen oder weiblichem Nomen mit Vokalbeginn im Singular)",
+    "french_forms": [
+      "ton"
+    ],
+    "proper_name": false,
+    "source_page": 205,
+    "source_image": "project_sources/12-IMG_2557.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "fad63dad11657ffc7cdb997b",
+    "unit": 3,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "habiter / j'habite",
+    "german": "wohnen; ich wohne",
+    "french_forms": [
+      "habiter",
+      "j'habite"
+    ],
+    "proper_name": false,
+    "source_page": 205,
+    "source_image": "project_sources/12-IMG_2557.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "fa5f3d6e4cc6590b23f79667",
+    "unit": 3,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "avenue de la Forêt Noire",
+    "german": "Schwarzwaldallee",
+    "french_forms": [
+      "avenue de la Forêt Noire"
+    ],
+    "proper_name": true,
+    "source_page": 205,
+    "source_image": "project_sources/12-IMG_2557.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "1fa30d1f85b54fadde0f8797",
+    "unit": 3,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "l'avenue",
+    "german": "die Allee",
+    "french_forms": [
+      "l'avenue"
+    ],
+    "proper_name": false,
+    "source_page": 205,
+    "source_image": "project_sources/12-IMG_2557.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "72952652105b9311c9705624",
+    "unit": 3,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "tout près",
+    "german": "ganz nah; ganz in der Nähe",
+    "french_forms": [
+      "tout près"
+    ],
+    "proper_name": false,
+    "source_page": 205,
+    "source_image": "project_sources/12-IMG_2557.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "3012572f04abd0e75c7bc872",
+    "unit": 3,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "rue de l'Observatoire",
+    "german": "Sternwartstraße",
+    "french_forms": [
+      "rue de l'Observatoire"
+    ],
+    "proper_name": true,
+    "source_page": 205,
+    "source_image": "project_sources/12-IMG_2557.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "230e26de0043f52dbe0ef85a",
+    "unit": 3,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "la rue",
+    "german": "die Straße",
+    "french_forms": [
+      "la rue"
+    ],
+    "proper_name": false,
+    "source_page": 206,
+    "source_image": "project_sources/01-IMG_2558.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "181ef46c98ca816644bdcca3",
+    "unit": 3,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "près de",
+    "german": "bei; in der Nähe von",
+    "french_forms": [
+      "près de"
+    ],
+    "proper_name": false,
+    "source_page": 206,
+    "source_image": "project_sources/01-IMG_2558.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "a91d96741ba7b5e5deb6b5ac",
+    "unit": 3,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "loin",
+    "german": "weit weg",
+    "french_forms": [
+      "loin"
+    ],
+    "proper_name": false,
+    "source_page": 206,
+    "source_image": "project_sources/01-IMG_2558.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "9401017e645fe29da785d60e",
+    "unit": 3,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "mais",
+    "german": "aber",
+    "french_forms": [
+      "mais"
+    ],
+    "proper_name": false,
+    "source_page": 206,
+    "source_image": "project_sources/01-IMG_2558.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "e3c7eee49d3bf166030b4dcf",
+    "unit": 3,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "pratique",
+    "german": "praktisch",
+    "french_forms": [
+      "pratique"
+    ],
+    "proper_name": false,
+    "source_page": 206,
+    "source_image": "project_sources/01-IMG_2558.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "9f8313e071c240eb298f96c7",
+    "unit": 3,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "ben",
+    "german": "na ja; äh",
+    "french_forms": [
+      "ben"
+    ],
+    "proper_name": false,
+    "source_page": 206,
+    "source_image": "project_sources/01-IMG_2558.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "05d026b2289c6376cb2fb388",
+    "unit": 3,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "la vitamine",
+    "german": "das Vitamin",
+    "french_forms": [
+      "la vitamine"
+    ],
+    "proper_name": false,
+    "source_page": 206,
+    "source_image": "project_sources/01-IMG_2558.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "03b555b93d75ee222994d81c",
+    "unit": 3,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "le bar à jus de fruits",
+    "german": "die Saftbar",
+    "french_forms": [
+      "le bar à jus de fruits"
+    ],
+    "proper_name": false,
+    "source_page": 206,
+    "source_image": "project_sources/01-IMG_2558.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "222e61c5a1b657f5eb02ff8d",
+    "unit": 3,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "le bar",
+    "german": "die Bar",
+    "french_forms": [
+      "le bar"
+    ],
+    "proper_name": false,
+    "source_page": 206,
+    "source_image": "project_sources/01-IMG_2558.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "680d1cf75c37e33dd8a57c37",
+    "unit": 3,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "le jus de fruits",
+    "german": "der Fruchtsaft",
+    "french_forms": [
+      "le jus de fruits"
+    ],
+    "proper_name": false,
+    "source_page": 206,
+    "source_image": "project_sources/01-IMG_2558.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "bfec991a88e4ef891eb7db05",
+    "unit": 3,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "le fruit",
+    "german": "die Frucht; das Obst",
+    "french_forms": [
+      "le fruit"
+    ],
+    "proper_name": false,
+    "source_page": 206,
+    "source_image": "project_sources/01-IMG_2558.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "1d19b15b5aa3f51a1881af1f",
+    "unit": 3,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "tard",
+    "german": "spät",
+    "french_forms": [
+      "tard"
+    ],
+    "proper_name": false,
+    "source_page": 206,
+    "source_image": "project_sources/01-IMG_2558.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "4355c41d0870212eeebc733b",
+    "unit": 3,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "garder qn",
+    "german": "auf jemanden aufpassen",
+    "french_forms": [
+      "garder qn"
+    ],
+    "proper_name": false,
+    "source_page": 206,
+    "source_image": "project_sources/01-IMG_2558.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "949162b58ca8848c2924351d",
+    "unit": 3,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "pénible",
+    "german": "lästig",
+    "french_forms": [
+      "pénible"
+    ],
+    "proper_name": false,
+    "source_page": 206,
+    "source_image": "project_sources/01-IMG_2558.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "a2d1c5c3c58aada795ae8b4d",
+    "unit": 3,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "On rigole bien.",
+    "german": "Wir haben viel Spaß.",
+    "french_forms": [
+      "On rigole bien."
+    ],
+    "proper_name": false,
+    "source_page": 206,
+    "source_image": "project_sources/01-IMG_2558.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "12d12ae741d08ca674d101bf",
+    "unit": 3,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "rigoler",
+    "german": "lachen; Spaß haben",
+    "french_forms": [
+      "rigoler"
+    ],
+    "proper_name": false,
+    "source_page": 206,
+    "source_image": "project_sources/01-IMG_2558.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "ff71a4c5cfb399b7484de45c",
+    "unit": 3,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "tes",
+    "german": "deine (vor Nomen im Plural)",
+    "french_forms": [
+      "tes"
+    ],
+    "proper_name": false,
+    "source_page": 206,
+    "source_image": "project_sources/01-IMG_2558.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "b8171bbd56a6ef3d6cc25afc",
+    "unit": 3,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "en",
+    "german": "in",
+    "french_forms": [
+      "en"
+    ],
+    "proper_name": false,
+    "source_page": 206,
+    "source_image": "project_sources/01-IMG_2558.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "3ae8805d1abe8dad52f344ed",
+    "unit": 3,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "l'Allemagne",
+    "german": "Deutschland",
+    "french_forms": [
+      "l'Allemagne"
+    ],
+    "proper_name": true,
+    "source_page": 206,
+    "source_image": "project_sources/01-IMG_2558.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "5228b1597ca5889eddca1ebd",
+    "unit": 3,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "tôt",
+    "german": "früh",
+    "french_forms": [
+      "tôt"
+    ],
+    "proper_name": false,
+    "source_page": 206,
+    "source_image": "project_sources/01-IMG_2558.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "b15b0f71fe5b2549a5c206d0",
+    "unit": 3,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "Paris",
+    "german": "Paris; Hauptstadt Frankreichs",
+    "french_forms": [
+      "Paris"
+    ],
+    "proper_name": true,
+    "source_page": 206,
+    "source_image": "project_sources/01-IMG_2558.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "5041b647eb26339e5bd65c47",
+    "unit": 3,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "le week-end",
+    "german": "das Wochenende; am Wochenende",
+    "french_forms": [
+      "le week-end"
+    ],
+    "proper_name": false,
+    "source_page": 206,
+    "source_image": "project_sources/01-IMG_2558.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "ef4d38afa0690d86195bdaf6",
+    "unit": 3,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "pendant",
+    "german": "während",
+    "french_forms": [
+      "pendant"
+    ],
+    "proper_name": false,
+    "source_page": 207,
+    "source_image": "project_sources/11-IMG_2559.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "545fcf5e8571c5bcd64e9711",
+    "unit": 3,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "la semaine",
+    "german": "die Woche",
+    "french_forms": [
+      "la semaine"
+    ],
+    "proper_name": false,
+    "source_page": 207,
+    "source_image": "project_sources/11-IMG_2559.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "8a64ad174e5cea7447c9d7a4",
+    "unit": 3,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "il m'énerve / elle m'énerve",
+    "german": "er nervt; sie nervt",
+    "french_forms": [
+      "il m'énerve",
+      "elle m'énerve"
+    ],
+    "proper_name": false,
+    "source_page": 207,
+    "source_image": "project_sources/11-IMG_2559.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "4db6d3189d72996f0488ee9f",
+    "unit": 3,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "Comment ça va ?",
+    "german": "Wie geht's?; Wie läuft es?",
+    "french_forms": [
+      "Comment ça va ?"
+    ],
+    "proper_name": false,
+    "source_page": 207,
+    "source_image": "project_sources/11-IMG_2559.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "1191a4445906deb6be5ffb58",
+    "unit": 3,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "ta",
+    "german": "dein; deine (vor weiblichem Nomen im Singular)",
+    "french_forms": [
+      "ta"
+    ],
+    "proper_name": false,
+    "source_page": 207,
+    "source_image": "project_sources/11-IMG_2559.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "3d9665a4438aa777714fd802",
+    "unit": 3,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "Lyon",
+    "german": "Lyon; drittgrößte Stadt Frankreichs",
+    "french_forms": [
+      "Lyon"
+    ],
+    "proper_name": true,
+    "source_page": 207,
+    "source_image": "project_sources/11-IMG_2559.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "d35a18dd4a76600f75b8f91b",
+    "unit": 3,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "son",
+    "german": "ihr; ihre; sein; seine (vor männlichem Nomen oder weiblichem Nomen mit Vokalbeginn im Singular)",
+    "french_forms": [
+      "son"
+    ],
+    "proper_name": false,
+    "source_page": 207,
+    "source_image": "project_sources/11-IMG_2559.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "dd1a3a313c04cb80fcc10fba",
+    "unit": 3,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "Je n'ai pas de frères et sœurs.",
+    "german": "Ich habe keine Geschwister.",
+    "french_forms": [
+      "Je n'ai pas de frères et sœurs."
+    ],
+    "proper_name": false,
+    "source_page": 207,
+    "source_image": "project_sources/11-IMG_2559.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "6f46f5daa6ca4493fe0bf89a",
+    "unit": 3,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "les frères et sœurs",
+    "german": "die Geschwister",
+    "french_forms": [
+      "les frères et sœurs"
+    ],
+    "proper_name": false,
+    "source_page": 207,
+    "source_image": "project_sources/11-IMG_2559.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "de82e40fe81ac07ade8ec4ac",
+    "unit": 3,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "Mes parents sont séparés.",
+    "german": "Meine Eltern sind getrennt.",
+    "french_forms": [
+      "Mes parents sont séparés."
+    ],
+    "proper_name": false,
+    "source_page": 207,
+    "source_image": "project_sources/11-IMG_2559.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "24dc8329c1ae08e742bb5598",
+    "unit": 3,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "être séparé",
+    "german": "getrennt sein",
+    "french_forms": [
+      "être séparé"
+    ],
+    "proper_name": false,
+    "source_page": 207,
+    "source_image": "project_sources/11-IMG_2559.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "d5823fb2adb6070837dd1e37",
+    "unit": 3,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "Genève",
+    "german": "Genf",
+    "french_forms": [
+      "Genève"
+    ],
+    "proper_name": true,
+    "source_page": 207,
+    "source_image": "project_sources/11-IMG_2559.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "318f770c118b64e905fcb15a",
+    "unit": 3,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "sa",
+    "german": "sein; seine; ihr; ihre (vor weiblichem Nomen im Singular)",
+    "french_forms": [
+      "sa"
+    ],
+    "proper_name": false,
+    "source_page": 207,
+    "source_image": "project_sources/11-IMG_2559.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "9e1004bc6504d3414ad89a70",
+    "unit": 3,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "la femme",
+    "german": "die Frau; die Ehefrau",
+    "french_forms": [
+      "la femme"
+    ],
+    "proper_name": false,
+    "source_page": 207,
+    "source_image": "project_sources/11-IMG_2559.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "49cfc7d71c0013c911c34a5b",
+    "unit": 3,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "passer",
+    "german": "verbringen",
+    "french_forms": [
+      "passer"
+    ],
+    "proper_name": false,
+    "source_page": 207,
+    "source_image": "project_sources/11-IMG_2559.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "77d967c5254e7af195ca5a14",
+    "unit": 3,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "les vacances",
+    "german": "die Ferien",
+    "french_forms": [
+      "les vacances"
+    ],
+    "proper_name": false,
+    "source_page": 207,
+    "source_image": "project_sources/11-IMG_2559.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "602df3d035ee1f80592e35e3",
+    "unit": 3,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "la belle-mère",
+    "german": "die Stiefmutter",
+    "french_forms": [
+      "la belle-mère"
+    ],
+    "proper_name": false,
+    "source_page": 207,
+    "source_image": "project_sources/11-IMG_2559.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "3b99228f45d0869c7d7aba42",
+    "unit": 3,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "sympa / sympathique",
+    "german": "nett; sympathisch",
+    "french_forms": [
+      "sympa",
+      "sympathique"
+    ],
+    "proper_name": false,
+    "source_page": 207,
+    "source_image": "project_sources/11-IMG_2559.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "6c34e11efc58e9ab759217ca",
+    "unit": 3,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "ses",
+    "german": "sein; seine; ihr; ihre (vor Nomen im Plural)",
+    "french_forms": [
+      "ses"
+    ],
+    "proper_name": false,
+    "source_page": 208,
+    "source_image": "upload/IMG_2560.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "ee7ca5e4c83ba8e782d5e041",
+    "unit": 3,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "l'enfant",
+    "german": "das Kind",
+    "french_forms": [
+      "l'enfant"
+    ],
+    "proper_name": false,
+    "source_page": 208,
+    "source_image": "upload/IMG_2560.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "02970de38d4315247d1f70fe",
+    "unit": 3,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "ils m'énervent / elles m'énervent",
+    "german": "sie nerven",
+    "french_forms": [
+      "ils m'énervent",
+      "elles m'énervent"
+    ],
+    "proper_name": false,
+    "source_page": 208,
+    "source_image": "upload/IMG_2560.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "1895713895f300cbd069d25f",
+    "unit": 3,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "l'an",
+    "german": "das Jahr (auch für Altersangabe)",
+    "french_forms": [
+      "l'an"
+    ],
+    "proper_name": false,
+    "source_page": 208,
+    "source_image": "upload/IMG_2560.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "cd30e7e85d92aefc8d14d208",
+    "unit": 3,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "un",
+    "german": "eins",
+    "french_forms": [
+      "un"
+    ],
+    "proper_name": false,
+    "source_page": 208,
+    "source_image": "upload/IMG_2560.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "e0444f9f904f7b3edad243f0",
+    "unit": 3,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "deux",
+    "german": "zwei",
+    "french_forms": [
+      "deux"
+    ],
+    "proper_name": false,
+    "source_page": 208,
+    "source_image": "upload/IMG_2560.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "721742a33ea30be358e6a08e",
+    "unit": 3,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "trois",
+    "german": "drei",
+    "french_forms": [
+      "trois"
+    ],
+    "proper_name": false,
+    "source_page": 208,
+    "source_image": "upload/IMG_2560.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "dc173d478ed6ec271319e685",
+    "unit": 3,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "quatre",
+    "german": "vier",
+    "french_forms": [
+      "quatre"
+    ],
+    "proper_name": false,
+    "source_page": 208,
+    "source_image": "upload/IMG_2560.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "15951de24ba657af485c7283",
+    "unit": 3,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "cinq",
+    "german": "fünf",
+    "french_forms": [
+      "cinq"
+    ],
+    "proper_name": false,
+    "source_page": 208,
+    "source_image": "upload/IMG_2560.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "138563f8e3d836bdfd9206c2",
+    "unit": 3,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "six",
+    "german": "sechs",
+    "french_forms": [
+      "six"
+    ],
+    "proper_name": false,
+    "source_page": 208,
+    "source_image": "upload/IMG_2560.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "f2a553f710fca575b3bec648",
+    "unit": 3,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "sept",
+    "german": "sieben",
+    "french_forms": [
+      "sept"
+    ],
+    "proper_name": false,
+    "source_page": 208,
+    "source_image": "upload/IMG_2560.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "cd8cdb39b59fee5f9264babf",
+    "unit": 3,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "huit",
+    "german": "acht",
+    "french_forms": [
+      "huit"
+    ],
+    "proper_name": false,
+    "source_page": 208,
+    "source_image": "upload/IMG_2560.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "7b6492b23863eba907eae52e",
+    "unit": 3,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "neuf",
+    "german": "neun",
+    "french_forms": [
+      "neuf"
+    ],
+    "proper_name": false,
+    "source_page": 208,
+    "source_image": "upload/IMG_2560.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "34116cd98f1048fb4218d573",
+    "unit": 3,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "dix",
+    "german": "zehn",
+    "french_forms": [
+      "dix"
+    ],
+    "proper_name": false,
+    "source_page": 208,
+    "source_image": "upload/IMG_2560.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "2de54263db5f6629aee47b22",
+    "unit": 3,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "onze",
+    "german": "elf",
+    "french_forms": [
+      "onze"
+    ],
+    "proper_name": false,
+    "source_page": 208,
+    "source_image": "upload/IMG_2560.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "b2aa5131674c580b0adbb411",
+    "unit": 3,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "douze",
+    "german": "zwölf",
+    "french_forms": [
+      "douze"
+    ],
+    "proper_name": false,
+    "source_page": 208,
+    "source_image": "upload/IMG_2560.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "60e557b74422d4753deeca0a",
+    "unit": 3,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "treize",
+    "german": "dreizehn",
+    "french_forms": [
+      "treize"
+    ],
+    "proper_name": false,
+    "source_page": 208,
+    "source_image": "upload/IMG_2560.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "a55a49284df2a57cebd3bd49",
+    "unit": 3,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "quatorze",
+    "german": "vierzehn",
+    "french_forms": [
+      "quatorze"
+    ],
+    "proper_name": false,
+    "source_page": 208,
+    "source_image": "upload/IMG_2560.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "629166e2910acc5fdb208c7f",
+    "unit": 3,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "quinze",
+    "german": "fünfzehn",
+    "french_forms": [
+      "quinze"
+    ],
+    "proper_name": false,
+    "source_page": 208,
+    "source_image": "upload/IMG_2560.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "972e498bfbab0b1a08d4cfcc",
+    "unit": 3,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "seize",
+    "german": "sechzehn",
+    "french_forms": [
+      "seize"
+    ],
+    "proper_name": false,
+    "source_page": 208,
+    "source_image": "upload/IMG_2560.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "b2d326002eceb1bdc996de1e",
+    "unit": 3,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "dix-sept",
+    "german": "siebzehn",
+    "french_forms": [
+      "dix-sept"
+    ],
+    "proper_name": false,
+    "source_page": 208,
+    "source_image": "upload/IMG_2560.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "5e1fb490921b0d6726647868",
+    "unit": 3,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "dix-huit",
+    "german": "achtzehn",
+    "french_forms": [
+      "dix-huit"
+    ],
+    "proper_name": false,
+    "source_page": 208,
+    "source_image": "upload/IMG_2560.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "5935344f827b2eae5c226d5e",
+    "unit": 3,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "dix-neuf",
+    "german": "neunzehn",
+    "french_forms": [
+      "dix-neuf"
+    ],
+    "proper_name": false,
+    "source_page": 208,
+    "source_image": "upload/IMG_2560.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "b2e91ada2f8319e5a72541e6",
+    "unit": 3,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "vingt",
+    "german": "zwanzig",
+    "french_forms": [
+      "vingt"
+    ],
+    "proper_name": false,
+    "source_page": 208,
+    "source_image": "upload/IMG_2560.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "5642c8d79ed4912d610e3387",
+    "unit": 3,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "beaucoup",
+    "german": "viel",
+    "french_forms": [
+      "beaucoup"
+    ],
+    "proper_name": false,
+    "source_page": 208,
+    "source_image": "upload/IMG_2560.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "28d81e72681ab6abc95ca7e6",
+    "unit": 3,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "Ils sont là pour nous. / Elles sont là pour nous.",
+    "german": "Sie sind für uns da.",
+    "french_forms": [
+      "Ils sont là pour nous.",
+      "Elles sont là pour nous."
+    ],
+    "proper_name": false,
+    "source_page": 208,
+    "source_image": "upload/IMG_2560.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "b11d0f8c3f2d69293c0d71b8",
+    "unit": 3,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "pour",
+    "german": "für",
+    "french_forms": [
+      "pour"
+    ],
+    "proper_name": false,
+    "source_page": 208,
+    "source_image": "upload/IMG_2560.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "336a02cfc05b2c41d4b535eb",
+    "unit": 3,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "j'ai",
+    "german": "ich habe",
+    "french_forms": [
+      "j'ai"
+    ],
+    "proper_name": false,
+    "source_page": 208,
+    "source_image": "upload/IMG_2560.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "95daba322f43689ae8b25d8f",
+    "unit": 3,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "avoir",
+    "german": "haben",
+    "french_forms": [
+      "avoir"
+    ],
+    "proper_name": false,
+    "source_page": 208,
+    "source_image": "upload/IMG_2560.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "4c3c4e12a8dab687b2035240",
+    "unit": 3,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "Colmar",
+    "german": "Colmar; drittgrößte Stadt im Elsass",
+    "french_forms": [
+      "Colmar"
+    ],
+    "proper_name": true,
+    "source_page": 208,
+    "source_image": "upload/IMG_2560.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "1581d11412cc74f2f4da7a8a",
+    "unit": 3,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "le hamster",
+    "german": "der Hamster",
+    "french_forms": [
+      "le hamster"
+    ],
+    "proper_name": false,
+    "source_page": 208,
+    "source_image": "upload/IMG_2560.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "55ec531f43b89bf750c8d1ba",
+    "unit": 3,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "C'est l'horreur !",
+    "german": "Das ist der Horror!",
+    "french_forms": [
+      "C'est l'horreur !"
+    ],
+    "proper_name": false,
+    "source_page": 208,
+    "source_image": "upload/IMG_2560.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "e04d2303911e024cb2ede98e",
+    "unit": 3,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "le problème",
+    "german": "das Problem",
+    "french_forms": [
+      "le problème"
+    ],
+    "proper_name": false,
+    "source_page": 208,
+    "source_image": "upload/IMG_2560.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "69319f96547f39a91cb5449f",
+    "unit": 3,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "le beau-père",
+    "german": "der Stiefvater",
+    "french_forms": [
+      "le beau-père"
+    ],
+    "proper_name": false,
+    "source_page": 209,
+    "source_image": "project_sources/09-IMG_2561.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "90789652d0009d9ed8567b84",
+    "unit": 3,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "crier",
+    "german": "schreien",
+    "french_forms": [
+      "crier"
+    ],
+    "proper_name": false,
+    "source_page": 209,
+    "source_image": "project_sources/09-IMG_2561.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "15b6766a285af17050f0cb3b",
+    "unit": 3,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "C'est tout.",
+    "german": "Das ist alles.",
+    "french_forms": [
+      "C'est tout."
+    ],
+    "proper_name": false,
+    "source_page": 209,
+    "source_image": "project_sources/09-IMG_2561.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "ca7f2d3ffbb97290a464af5b",
+    "unit": 3,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "tout",
+    "german": "alles",
+    "french_forms": [
+      "tout"
+    ],
+    "proper_name": false,
+    "source_page": 209,
+    "source_image": "project_sources/09-IMG_2561.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "449118bc503e336a0aad4892",
+    "unit": 3,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "au chômage",
+    "german": "arbeitslos",
+    "french_forms": [
+      "au chômage"
+    ],
+    "proper_name": false,
+    "source_page": 209,
+    "source_image": "project_sources/09-IMG_2561.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "e7907c9126f5b0d304c52433",
+    "unit": 3,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "le travail / les travaux",
+    "german": "die Arbeit; die Bauarbeiten",
+    "french_forms": [
+      "le travail",
+      "les travaux"
+    ],
+    "proper_name": false,
+    "source_page": 209,
+    "source_image": "project_sources/09-IMG_2561.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "437ae8f5cd7bd76baf36617c",
+    "unit": 3,
+    "volet": 4,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "Quel est ton animal préféré ?",
+    "german": "Welches ist dein Lieblingstier?",
+    "french_forms": [
+      "Quel est ton animal préféré ?"
+    ],
+    "proper_name": false,
+    "source_page": 209,
+    "source_image": "project_sources/09-IMG_2561.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "ef291a8266d79df9cc683a72",
+    "unit": 3,
+    "volet": 4,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "l'animal préféré",
+    "german": "das Lieblingstier",
+    "french_forms": [
+      "l'animal préféré"
+    ],
+    "proper_name": false,
+    "source_page": 209,
+    "source_image": "project_sources/09-IMG_2561.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "5a504da5f0af1d9a8fe5df65",
+    "unit": 3,
+    "volet": 4,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "l'animal / les animaux",
+    "german": "das Tier",
+    "french_forms": [
+      "l'animal",
+      "les animaux"
+    ],
+    "proper_name": false,
+    "source_page": 209,
+    "source_image": "project_sources/09-IMG_2561.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "a1faaf94e66dbd689978c9c3",
+    "unit": 3,
+    "volet": 4,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "quel / quelle",
+    "german": "welcher; welche; welches",
+    "french_forms": [
+      "quel",
+      "quelle"
+    ],
+    "proper_name": false,
+    "source_page": 209,
+    "source_image": "project_sources/09-IMG_2561.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "79b77f747447aadda68f9b32",
+    "unit": 3,
+    "volet": 4,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "le chien",
+    "german": "der Hund",
+    "french_forms": [
+      "le chien"
+    ],
+    "proper_name": false,
+    "source_page": 209,
+    "source_image": "project_sources/09-IMG_2561.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "a1e238952838e049f1a5800c",
+    "unit": 3,
+    "volet": 4,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "intelligent / intelligente",
+    "german": "intelligent",
+    "french_forms": [
+      "intelligent",
+      "intelligente"
+    ],
+    "proper_name": false,
+    "source_page": 209,
+    "source_image": "project_sources/09-IMG_2561.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "28014ff79815deeaddda9c85",
+    "unit": 3,
+    "volet": 4,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "adorable",
+    "german": "süß; niedlich",
+    "french_forms": [
+      "adorable"
+    ],
+    "proper_name": false,
+    "source_page": 209,
+    "source_image": "project_sources/09-IMG_2561.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "75355a5ca2742162a5e4a9dc",
+    "unit": 3,
+    "volet": 4,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "la perruche",
+    "german": "der Wellensittich",
+    "french_forms": [
+      "la perruche"
+    ],
+    "proper_name": false,
+    "source_page": 209,
+    "source_image": "project_sources/09-IMG_2561.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "30ffc71c1e911cfc2ae81335",
+    "unit": 3,
+    "volet": 4,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "bavard / bavarde",
+    "german": "geschwätzig",
+    "french_forms": [
+      "bavard",
+      "bavarde"
+    ],
+    "proper_name": false,
+    "source_page": 209,
+    "source_image": "project_sources/09-IMG_2561.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "0dd57d25d04c8acce97ebf1d",
+    "unit": 3,
+    "volet": 4,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "joli / jolie",
+    "german": "hübsch",
+    "french_forms": [
+      "joli",
+      "jolie"
+    ],
+    "proper_name": false,
+    "source_page": 209,
+    "source_image": "project_sources/09-IMG_2561.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "aa494aecf7c3ba8f97b559b2",
+    "unit": 3,
+    "volet": 4,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "Que fait ... ?",
+    "german": "Was macht ...?",
+    "french_forms": [
+      "Que fait ... ?"
+    ],
+    "proper_name": false,
+    "source_page": 209,
+    "source_image": "project_sources/09-IMG_2561.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "2eb513503692fc6c8a507d8d",
+    "unit": 3,
+    "volet": 4,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "le chat",
+    "german": "die Katze",
+    "french_forms": [
+      "le chat"
+    ],
+    "proper_name": false,
+    "source_page": 209,
+    "source_image": "project_sources/09-IMG_2561.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "8993fa66d7ba88e1ce7a2c53",
+    "unit": 3,
+    "volet": 4,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "le bureau / les bureaux",
+    "german": "der Schreibtisch; das Büro",
+    "french_forms": [
+      "le bureau",
+      "les bureaux"
+    ],
+    "proper_name": false,
+    "source_page": 209,
+    "source_image": "project_sources/09-IMG_2561.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "140b6bbf82e4c842b80d92e6",
+    "unit": 3,
+    "volet": 4,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "la tortue",
+    "german": "die Schildkröte",
+    "french_forms": [
+      "la tortue"
+    ],
+    "proper_name": false,
+    "source_page": 210,
+    "source_image": "upload/IMG_2562.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "609e90d9705f272b3cc5fc63",
+    "unit": 3,
+    "volet": 4,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "le lapin",
+    "german": "das Kaninchen",
+    "french_forms": [
+      "le lapin"
+    ],
+    "proper_name": false,
+    "source_page": 210,
+    "source_image": "upload/IMG_2562.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "b99a56e96029154afd7c3360",
+    "unit": 3,
+    "volet": 4,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "avoir un caractère de chien",
+    "german": "einen fiesen Charakter haben",
+    "french_forms": [
+      "avoir un caractère de chien"
+    ],
+    "proper_name": false,
+    "source_page": 210,
+    "source_image": "upload/IMG_2562.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "ae27435501c2091ffc293b6b",
+    "unit": 3,
+    "volet": 4,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "le cochon d'Inde",
+    "german": "das Meerschweinchen",
+    "french_forms": [
+      "le cochon d'Inde"
+    ],
+    "proper_name": false,
+    "source_page": 210,
+    "source_image": "upload/IMG_2562.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "61e7c00861287e53055f46f4",
+    "unit": 3,
+    "volet": 4,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "le poisson",
+    "german": "der Fisch",
+    "french_forms": [
+      "le poisson"
+    ],
+    "proper_name": false,
+    "source_page": 210,
+    "source_image": "upload/IMG_2562.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "d77bff80d22747a2ec236c9d",
+    "unit": 3,
+    "volet": 4,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "surfer sur Internet",
+    "german": "im Internet surfen",
+    "french_forms": [
+      "surfer sur Internet"
+    ],
+    "proper_name": false,
+    "source_page": 210,
+    "source_image": "upload/IMG_2562.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "1cfcb59e88fc5e9cf204b6fe",
+    "unit": 3,
+    "volet": 4,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "le concours",
+    "german": "der Wettbewerb",
+    "french_forms": [
+      "le concours"
+    ],
+    "proper_name": false,
+    "source_page": 210,
+    "source_image": "upload/IMG_2562.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "d27b8119f43962cc54de83d3",
+    "unit": 3,
+    "volet": 4,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "avoir l'âge de qn",
+    "german": "so alt sein wie jemand",
+    "french_forms": [
+      "avoir l'âge de qn"
+    ],
+    "proper_name": false,
+    "source_page": 210,
+    "source_image": "upload/IMG_2562.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "6305827bd6dd7387fcbc412a",
+    "unit": 3,
+    "volet": 4,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "l'âge",
+    "german": "das Alter",
+    "french_forms": [
+      "l'âge"
+    ],
+    "proper_name": false,
+    "source_page": 210,
+    "source_image": "upload/IMG_2562.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "600aa06aa720bfebc9aeac20",
+    "unit": 3,
+    "volet": 4,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "Elle a quel âge ?",
+    "german": "Wie alt ist sie?",
+    "french_forms": [
+      "Elle a quel âge ?"
+    ],
+    "proper_name": false,
+    "source_page": 210,
+    "source_image": "upload/IMG_2562.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "316bf3fde350df69fb7908e3",
+    "unit": 3,
+    "volet": 4,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "je voudrais",
+    "german": "ich möchte gern; ich hätte gern",
+    "french_forms": [
+      "je voudrais"
+    ],
+    "proper_name": false,
+    "source_page": 210,
+    "source_image": "upload/IMG_2562.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "17a8639a681c94865434a4a0",
+    "unit": 3,
+    "volet": 4,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "être contre (qn/qc)",
+    "german": "gegen jemanden; etwas sein; dagegen sein",
+    "french_forms": [
+      "être contre (qn/qc)"
+    ],
+    "proper_name": false,
+    "source_page": 210,
+    "source_image": "upload/IMG_2562.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "28ea50dee47e59095e47b56c",
+    "unit": 3,
+    "volet": 4,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "Je n'ai pas d'animal.",
+    "german": "Ich habe kein Tier.",
+    "french_forms": [
+      "Je n'ai pas d'animal."
+    ],
+    "proper_name": false,
+    "source_page": 210,
+    "source_image": "upload/IMG_2562.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "9b72f6118dc67444f0bced90",
+    "unit": 3,
+    "volet": 4,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "l'allergie",
+    "german": "die Allergie",
+    "french_forms": [
+      "l'allergie"
+    ],
+    "proper_name": false,
+    "source_page": 210,
+    "source_image": "upload/IMG_2562.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "39dc82424175afcb7bd2313b",
+    "unit": 3,
+    "volet": 4,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "bête",
+    "german": "dumm; blöd; schade",
+    "french_forms": [
+      "bête"
+    ],
+    "proper_name": false,
+    "source_page": 210,
+    "source_image": "upload/IMG_2562.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "557725129a73eabceef46979",
+    "unit": 3,
+    "volet": 4,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "Qui ?",
+    "german": "Wer?",
+    "french_forms": [
+      "Qui ?"
+    ],
+    "proper_name": false,
+    "source_page": 210,
+    "source_image": "upload/IMG_2562.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "2da637552f7904970973d026",
+    "unit": 3,
+    "volet": 4,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "être pour (qn/qc)",
+    "german": "für jemanden; etwas sein; dafür sein",
+    "french_forms": [
+      "être pour (qn/qc)"
+    ],
+    "proper_name": false,
+    "source_page": 210,
+    "source_image": "upload/IMG_2562.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "911e519942706a96fd0a8273",
+    "unit": 3,
+    "volet": 4,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "moche",
+    "german": "hässlich",
+    "french_forms": [
+      "moche"
+    ],
+    "proper_name": false,
+    "source_page": 210,
+    "source_image": "upload/IMG_2562.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  }
+]

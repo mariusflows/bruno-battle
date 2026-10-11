@@ -1,0 +1,1659 @@
+[
+  {
+    "id": "111c0b2142989448ab129f11",
+    "unit": 6,
+    "volet": 1,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "vingt-et-un",
+    "german": "einundzwanzig",
+    "french_forms": [
+      "vingt-et-un"
+    ],
+    "proper_name": false,
+    "source_page": 223,
+    "source_image": "upload/IMG_2575.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "6b8bf9a0e3b7f2462800130c",
+    "unit": 6,
+    "volet": 1,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "avril",
+    "german": "April",
+    "french_forms": [
+      "avril"
+    ],
+    "proper_name": false,
+    "source_page": 223,
+    "source_image": "upload/IMG_2575.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "fcde7972bf9f5cadd19dd463",
+    "unit": 6,
+    "volet": 1,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "monter dans qc",
+    "german": "in etwas einsteigen",
+    "french_forms": [
+      "monter dans qc"
+    ],
+    "proper_name": false,
+    "source_page": 223,
+    "source_image": "upload/IMG_2575.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "d53f1b7bd9473817d0035624",
+    "unit": 6,
+    "volet": 1,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "le Palais Rohan",
+    "german": "Palais Rohan (Gebäude mit Museen in Straßburg)",
+    "french_forms": [
+      "le Palais Rohan"
+    ],
+    "proper_name": true,
+    "source_page": 223,
+    "source_image": "upload/IMG_2575.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "7d3a10e45d592716082f526b",
+    "unit": 6,
+    "volet": 1,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "la ville",
+    "german": "die Stadt",
+    "french_forms": [
+      "la ville"
+    ],
+    "proper_name": false,
+    "source_page": 223,
+    "source_image": "upload/IMG_2575.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "1029ff9ccb40245b1d6a7ebf",
+    "unit": 6,
+    "volet": 1,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "commencer / nous commençons",
+    "german": "beginnen; wir beginnen",
+    "french_forms": [
+      "commencer",
+      "nous commençons"
+    ],
+    "proper_name": false,
+    "source_page": 223,
+    "source_image": "upload/IMG_2575.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "6d4288b777c95d31180a08cb",
+    "unit": 6,
+    "volet": 1,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "passer par qc",
+    "german": "durch etwas fahren; durch etwas gehen",
+    "french_forms": [
+      "passer par qc"
+    ],
+    "proper_name": false,
+    "source_page": 223,
+    "source_image": "upload/IMG_2575.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "2af4f3cc90e2eeffeab71b40",
+    "unit": 6,
+    "volet": 1,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "le quartier",
+    "german": "das Viertel",
+    "french_forms": [
+      "le quartier"
+    ],
+    "proper_name": false,
+    "source_page": 223,
+    "source_image": "upload/IMG_2575.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "5ef8291b3203414ee5040d30",
+    "unit": 6,
+    "volet": 1,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "la Petite France",
+    "german": "historisches Viertel in Straßburg",
+    "french_forms": [
+      "la Petite France"
+    ],
+    "proper_name": true,
+    "source_page": 223,
+    "source_image": "upload/IMG_2575.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "510d4d6d130e8bbf0b72345c",
+    "unit": 6,
+    "volet": 1,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "le Moyen-Âge",
+    "german": "das Mittelalter",
+    "french_forms": [
+      "le Moyen-Âge"
+    ],
+    "proper_name": false,
+    "source_page": 223,
+    "source_image": "upload/IMG_2575.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "b9ec57c531b4ebcb533cb460",
+    "unit": 6,
+    "volet": 1,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "le pont",
+    "german": "die Brücke",
+    "french_forms": [
+      "le pont"
+    ],
+    "proper_name": false,
+    "source_page": 223,
+    "source_image": "upload/IMG_2575.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "42350d086e45e466a287c7af",
+    "unit": 6,
+    "volet": 1,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "assez",
+    "german": "ziemlich",
+    "french_forms": [
+      "assez"
+    ],
+    "proper_name": false,
+    "source_page": 223,
+    "source_image": "upload/IMG_2575.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "d12a90db61094a01b47da5f5",
+    "unit": 6,
+    "volet": 1,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "touristique",
+    "german": "touristisch",
+    "french_forms": [
+      "touristique"
+    ],
+    "proper_name": false,
+    "source_page": 224,
+    "source_image": "upload/IMG_2576.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "1f50e365bf8fc5ec8b9d4fdc",
+    "unit": 6,
+    "volet": 1,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "le Musée d'Art moderne",
+    "german": "das Museum für moderne Kunst",
+    "french_forms": [
+      "le Musée d'Art moderne"
+    ],
+    "proper_name": true,
+    "source_page": 224,
+    "source_image": "upload/IMG_2576.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "650fba342b3bec9498ca1361",
+    "unit": 6,
+    "volet": 1,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "à côté de qc",
+    "german": "neben",
+    "french_forms": [
+      "à côté de qc"
+    ],
+    "proper_name": false,
+    "source_page": 224,
+    "source_image": "upload/IMG_2576.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "02ca33e01b422440858bf5ea",
+    "unit": 6,
+    "volet": 1,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "le skate-board",
+    "german": "das Skateboard",
+    "french_forms": [
+      "le skate-board"
+    ],
+    "proper_name": false,
+    "source_page": 224,
+    "source_image": "upload/IMG_2576.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "86269aaeffb0cabe08415172",
+    "unit": 6,
+    "volet": 1,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "le Quartier allemand",
+    "german": "historisches Viertel in Straßburg",
+    "french_forms": [
+      "le Quartier allemand"
+    ],
+    "proper_name": true,
+    "source_page": 224,
+    "source_image": "upload/IMG_2576.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "80e033ec13bb6eec07bb7a2a",
+    "unit": 6,
+    "volet": 1,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "la place",
+    "german": "der Platz",
+    "french_forms": [
+      "la place"
+    ],
+    "proper_name": false,
+    "source_page": 224,
+    "source_image": "upload/IMG_2576.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "b01f1f9eb191a82a9bb51910",
+    "unit": 6,
+    "volet": 1,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "Arte",
+    "german": "Fernsehsender",
+    "french_forms": [
+      "Arte"
+    ],
+    "proper_name": true,
+    "source_page": 224,
+    "source_image": "upload/IMG_2576.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "32bb735efef5ecbf77576363",
+    "unit": 6,
+    "volet": 1,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "la télévision franco-allemande",
+    "german": "der deutsch-französische Fernsehsender",
+    "french_forms": [
+      "la télévision franco-allemande"
+    ],
+    "proper_name": false,
+    "source_page": 224,
+    "source_image": "upload/IMG_2576.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "19ce2d4ab752305169a8ef08",
+    "unit": 6,
+    "volet": 1,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "le Parlement européen",
+    "german": "das Europäische Parlament",
+    "french_forms": [
+      "le Parlement européen"
+    ],
+    "proper_name": true,
+    "source_page": 224,
+    "source_image": "upload/IMG_2576.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "2c94c111d5f61d7130f4dce6",
+    "unit": 6,
+    "volet": 1,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "le Conseil de l'Europe",
+    "german": "der Europarat",
+    "french_forms": [
+      "le Conseil de l'Europe"
+    ],
+    "proper_name": true,
+    "source_page": 224,
+    "source_image": "upload/IMG_2576.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "3ad867134f3f672662e0bd06",
+    "unit": 6,
+    "volet": 1,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "retourner à",
+    "german": "zurückkehren zu",
+    "french_forms": [
+      "retourner à"
+    ],
+    "proper_name": false,
+    "source_page": 224,
+    "source_image": "upload/IMG_2576.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "df4a2eb8552b52760d9610dd",
+    "unit": 6,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "avoir faim",
+    "german": "Hunger haben",
+    "french_forms": [
+      "avoir faim"
+    ],
+    "proper_name": false,
+    "source_page": 224,
+    "source_image": "upload/IMG_2576.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "1620d318fc68406187fff880",
+    "unit": 6,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "le Français / la Française",
+    "german": "der Franzose; die Französin",
+    "french_forms": [
+      "le Français",
+      "la Française"
+    ],
+    "proper_name": false,
+    "source_page": 224,
+    "source_image": "upload/IMG_2576.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "bab1d2b22109ea0c348cd569",
+    "unit": 6,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "l'Allemand / l'Allemande",
+    "german": "der Deutsche; die Deutsche",
+    "french_forms": [
+      "l'Allemand",
+      "l'Allemande"
+    ],
+    "proper_name": false,
+    "source_page": 224,
+    "source_image": "upload/IMG_2576.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "35e82ad6c50038b336f9fa10",
+    "unit": 6,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "le menu",
+    "german": "das Menü",
+    "french_forms": [
+      "le menu"
+    ],
+    "proper_name": false,
+    "source_page": 224,
+    "source_image": "upload/IMG_2576.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "5d9d03be7f948a9deb92e3e6",
+    "unit": 6,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "l'entrée",
+    "german": "die Vorspeise",
+    "french_forms": [
+      "l'entrée"
+    ],
+    "proper_name": false,
+    "source_page": 224,
+    "source_image": "upload/IMG_2576.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "9b1fcde0e96f1136e5cc8ee1",
+    "unit": 6,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "le taboulé",
+    "german": "das Taboulé",
+    "french_forms": [
+      "le taboulé"
+    ],
+    "proper_name": false,
+    "source_page": 225,
+    "source_image": "upload/IMG_2577.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "af5662497ce72216c7a52613",
+    "unit": 6,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "le pâté",
+    "german": "die Leberpastete",
+    "french_forms": [
+      "le pâté"
+    ],
+    "proper_name": false,
+    "source_page": 225,
+    "source_image": "upload/IMG_2577.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "6be45fa1b6857a3537e85f7c",
+    "unit": 6,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "le plat",
+    "german": "das Hauptgericht",
+    "french_forms": [
+      "le plat"
+    ],
+    "proper_name": false,
+    "source_page": 225,
+    "source_image": "upload/IMG_2577.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "07550742166ed0fd6d8e7785",
+    "unit": 6,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "la sauce tomate",
+    "german": "die Tomatensoße",
+    "french_forms": [
+      "la sauce tomate"
+    ],
+    "proper_name": false,
+    "source_page": 225,
+    "source_image": "upload/IMG_2577.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "a8b6f32f78e3a7747d070bed",
+    "unit": 6,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "la sauce",
+    "german": "die Soße",
+    "french_forms": [
+      "la sauce"
+    ],
+    "proper_name": false,
+    "source_page": 225,
+    "source_image": "upload/IMG_2577.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "f52e009a39b5666b3809cc7b",
+    "unit": 6,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "la tomate",
+    "german": "die Tomate",
+    "french_forms": [
+      "la tomate"
+    ],
+    "proper_name": false,
+    "source_page": 225,
+    "source_image": "upload/IMG_2577.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "bcc79338d2b2552274eef7d1",
+    "unit": 6,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "la moutarde",
+    "german": "der Senf",
+    "french_forms": [
+      "la moutarde"
+    ],
+    "proper_name": false,
+    "source_page": 225,
+    "source_image": "upload/IMG_2577.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "198acaffbb11e62ae28e24be",
+    "unit": 6,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "le dessert",
+    "german": "die Nachspeise",
+    "french_forms": [
+      "le dessert"
+    ],
+    "proper_name": false,
+    "source_page": 225,
+    "source_image": "upload/IMG_2577.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "66424fe7cb51103e111cdfb4",
+    "unit": 6,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "la banane",
+    "german": "die Banane",
+    "french_forms": [
+      "la banane"
+    ],
+    "proper_name": false,
+    "source_page": 225,
+    "source_image": "upload/IMG_2577.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "50c6b3fbf5d1c3db4d33200b",
+    "unit": 6,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "le gâteau au chocolat",
+    "german": "der Schokoladenkuchen",
+    "french_forms": [
+      "le gâteau au chocolat"
+    ],
+    "proper_name": false,
+    "source_page": 225,
+    "source_image": "upload/IMG_2577.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "1bb874ff18da5d34ed7c35aa",
+    "unit": 6,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "le gâteau / les gâteaux",
+    "german": "der Kuchen",
+    "french_forms": [
+      "le gâteau",
+      "les gâteaux"
+    ],
+    "proper_name": false,
+    "source_page": 225,
+    "source_image": "upload/IMG_2577.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "c8a0118c98192e3861aa0b8f",
+    "unit": 6,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "ne ... jamais",
+    "german": "nie",
+    "french_forms": [
+      "ne ... jamais"
+    ],
+    "proper_name": false,
+    "source_page": 225,
+    "source_image": "upload/IMG_2577.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "0c57447082cba7b0c0c3f8c2",
+    "unit": 6,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "je prends",
+    "german": "ich nehme",
+    "french_forms": [
+      "je prends"
+    ],
+    "proper_name": false,
+    "source_page": 225,
+    "source_image": "upload/IMG_2577.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "b5168028321d0818327e75df",
+    "unit": 6,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "prendre qc",
+    "german": "etwas nehmen",
+    "french_forms": [
+      "prendre qc"
+    ],
+    "proper_name": false,
+    "source_page": 225,
+    "source_image": "upload/IMG_2577.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "f4191d7b541adfb17c50baea",
+    "unit": 6,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "ne ... rien",
+    "german": "nichts",
+    "french_forms": [
+      "ne ... rien"
+    ],
+    "proper_name": false,
+    "source_page": 225,
+    "source_image": "upload/IMG_2577.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "f34227001973fe1dc5fbe3df",
+    "unit": 6,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "si",
+    "german": "doch (Antwort auf eine verneinte Frage)",
+    "french_forms": [
+      "si"
+    ],
+    "proper_name": false,
+    "source_page": 225,
+    "source_image": "upload/IMG_2577.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "cebdc210f17e859e6a26c469",
+    "unit": 6,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "comme",
+    "german": "als",
+    "french_forms": [
+      "comme"
+    ],
+    "proper_name": false,
+    "source_page": 226,
+    "source_image": "upload/IMG_2578.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "92a1fe81403f02297506a83a",
+    "unit": 6,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "Zut !",
+    "german": "Mist!",
+    "french_forms": [
+      "Zut !"
+    ],
+    "proper_name": false,
+    "source_page": 226,
+    "source_image": "upload/IMG_2578.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "8d48bc3930f5dff71a3923a8",
+    "unit": 6,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "ne ... plus",
+    "german": "nicht mehr",
+    "french_forms": [
+      "ne ... plus"
+    ],
+    "proper_name": false,
+    "source_page": 226,
+    "source_image": "upload/IMG_2578.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "7ad689249da228e7703bf605",
+    "unit": 6,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "comprendre (qn/qc)",
+    "german": "jemanden; etwas verstehen",
+    "french_forms": [
+      "comprendre (qn/qc)"
+    ],
+    "proper_name": false,
+    "source_page": 226,
+    "source_image": "upload/IMG_2578.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "8d53c83cc4a3a7304e069e94",
+    "unit": 6,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "avoir soif",
+    "german": "Durst haben",
+    "french_forms": [
+      "avoir soif"
+    ],
+    "proper_name": false,
+    "source_page": 226,
+    "source_image": "upload/IMG_2578.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "2e19e75160484a88fc4055b2",
+    "unit": 6,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "Tu me passes ... ?",
+    "german": "Reichst du mir ...?",
+    "french_forms": [
+      "Tu me passes ... ?"
+    ],
+    "proper_name": false,
+    "source_page": 226,
+    "source_image": "upload/IMG_2578.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "b420a369fd29a6602b0af824",
+    "unit": 6,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "l'eau",
+    "german": "das Wasser",
+    "french_forms": [
+      "l'eau"
+    ],
+    "proper_name": false,
+    "source_page": 226,
+    "source_image": "upload/IMG_2578.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "ebcdb22e59113ceef895821e",
+    "unit": 6,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "Bon appétit !",
+    "german": "Guten Appetit!",
+    "french_forms": [
+      "Bon appétit !"
+    ],
+    "proper_name": false,
+    "source_page": 226,
+    "source_image": "upload/IMG_2578.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "b0efd5546b527be412dfa711",
+    "unit": 6,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "le pain",
+    "german": "das Brot",
+    "french_forms": [
+      "le pain"
+    ],
+    "proper_name": false,
+    "source_page": 226,
+    "source_image": "upload/IMG_2578.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "f964bbce05d8f6920a503032",
+    "unit": 6,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "C'est bon.",
+    "german": "Das schmeckt gut.",
+    "french_forms": [
+      "C'est bon."
+    ],
+    "proper_name": false,
+    "source_page": 226,
+    "source_image": "upload/IMG_2578.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "a69031cf048ffb50ec6ab3b4",
+    "unit": 6,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "trop bon",
+    "german": "voll lecker",
+    "french_forms": [
+      "trop bon"
+    ],
+    "proper_name": false,
+    "source_page": 226,
+    "source_image": "upload/IMG_2578.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "f815df4e1558a16c91cc216e",
+    "unit": 6,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "trop",
+    "german": "voll; total (umgangssprachlich)",
+    "french_forms": [
+      "trop"
+    ],
+    "proper_name": false,
+    "source_page": 226,
+    "source_image": "upload/IMG_2578.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "82c391fdb74b9614ec049826",
+    "unit": 6,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "la place Kléber",
+    "german": "Platz in Straßburg",
+    "french_forms": [
+      "la place Kléber"
+    ],
+    "proper_name": true,
+    "source_page": 226,
+    "source_image": "upload/IMG_2578.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "10fc776ff986688f445c88d6",
+    "unit": 6,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "l'interview",
+    "german": "das Interview",
+    "french_forms": [
+      "l'interview"
+    ],
+    "proper_name": false,
+    "source_page": 226,
+    "source_image": "upload/IMG_2578.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "075ac52c6e6183a81c00a659",
+    "unit": 6,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "parler à qn",
+    "german": "mit jemandem sprechen",
+    "french_forms": [
+      "parler à qn"
+    ],
+    "proper_name": false,
+    "source_page": 226,
+    "source_image": "upload/IMG_2578.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "703533aeb1344e30300cf45d",
+    "unit": 6,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "la dame",
+    "german": "die Frau",
+    "french_forms": [
+      "la dame"
+    ],
+    "proper_name": false,
+    "source_page": 226,
+    "source_image": "upload/IMG_2578.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "9fde3bae1f6b0d956c2155b4",
+    "unit": 6,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "grand / grande",
+    "german": "groß",
+    "french_forms": [
+      "grand",
+      "grande"
+    ],
+    "proper_name": false,
+    "source_page": 226,
+    "source_image": "upload/IMG_2578.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "6f000e5358b8db7e951298a8",
+    "unit": 6,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "beaucoup de",
+    "german": "viele",
+    "french_forms": [
+      "beaucoup de"
+    ],
+    "proper_name": false,
+    "source_page": 227,
+    "source_image": "upload/IMG_2579.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "2c622f01e8ba7f813c8e6fce",
+    "unit": 6,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "la chose",
+    "german": "die Sache",
+    "french_forms": [
+      "la chose"
+    ],
+    "proper_name": false,
+    "source_page": 227,
+    "source_image": "upload/IMG_2579.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "cb3f57a75678a6571c57c0c8",
+    "unit": 6,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "à pied",
+    "german": "zu Fuß",
+    "french_forms": [
+      "à pied"
+    ],
+    "proper_name": false,
+    "source_page": 227,
+    "source_image": "upload/IMG_2579.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "1a28366e5d0c17139a098945",
+    "unit": 6,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "à vélo",
+    "german": "mit dem Fahrrad",
+    "french_forms": [
+      "à vélo"
+    ],
+    "proper_name": false,
+    "source_page": 227,
+    "source_image": "upload/IMG_2579.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "1352e07ca53fb8afe8266780",
+    "unit": 6,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "en bus",
+    "german": "mit dem Bus",
+    "french_forms": [
+      "en bus"
+    ],
+    "proper_name": false,
+    "source_page": 227,
+    "source_image": "upload/IMG_2579.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "d1c0d146d73db21a06433342",
+    "unit": 6,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "en bateau",
+    "german": "mit dem Boot",
+    "french_forms": [
+      "en bateau"
+    ],
+    "proper_name": false,
+    "source_page": 227,
+    "source_image": "upload/IMG_2579.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "413db21db4d7210db5b6aa2d",
+    "unit": 6,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "en métro",
+    "german": "mit der U-Bahn",
+    "french_forms": [
+      "en métro"
+    ],
+    "proper_name": false,
+    "source_page": 227,
+    "source_image": "upload/IMG_2579.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "e22b6905c6a53216e08e2c52",
+    "unit": 6,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "en voiture",
+    "german": "mit dem Auto",
+    "french_forms": [
+      "en voiture"
+    ],
+    "proper_name": false,
+    "source_page": 227,
+    "source_image": "upload/IMG_2579.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "33ef932e2cebdc608e5ec1d7",
+    "unit": 6,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "un peu",
+    "german": "ein bisschen",
+    "french_forms": [
+      "un peu"
+    ],
+    "proper_name": false,
+    "source_page": 227,
+    "source_image": "upload/IMG_2579.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "8b9de97fa3994388bca87fe9",
+    "unit": 6,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "comme",
+    "german": "wie",
+    "french_forms": [
+      "comme"
+    ],
+    "proper_name": false,
+    "source_page": 227,
+    "source_image": "upload/IMG_2579.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "53361ec52a6d2ac9ab05e0d1",
+    "unit": 6,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "le village",
+    "german": "das Dorf",
+    "french_forms": [
+      "le village"
+    ],
+    "proper_name": false,
+    "source_page": 227,
+    "source_image": "upload/IMG_2579.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "ea16141be776b9c5f217ca90",
+    "unit": 6,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "la cathédrale",
+    "german": "der Dom; die Kathedrale",
+    "french_forms": [
+      "la cathédrale"
+    ],
+    "proper_name": false,
+    "source_page": 227,
+    "source_image": "upload/IMG_2579.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "51b5672bab98a197eaaa97a1",
+    "unit": 6,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "le parc de l'Orangerie",
+    "german": "Park in Straßburg",
+    "french_forms": [
+      "le parc de l'Orangerie"
+    ],
+    "proper_name": true,
+    "source_page": 227,
+    "source_image": "upload/IMG_2579.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "7c3bb32715980f0929e96e35",
+    "unit": 6,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "en face de",
+    "german": "gegenüber",
+    "french_forms": [
+      "en face de"
+    ],
+    "proper_name": false,
+    "source_page": 227,
+    "source_image": "upload/IMG_2579.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "a07d7bf789324251a26dc1d6",
+    "unit": 6,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "drôle",
+    "german": "lustig; spaßig; angenehm",
+    "french_forms": [
+      "drôle"
+    ],
+    "proper_name": false,
+    "source_page": 227,
+    "source_image": "upload/IMG_2579.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "74f0a80f811350fcb0621a80",
+    "unit": 6,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "trop de",
+    "german": "zu viel",
+    "french_forms": [
+      "trop de"
+    ],
+    "proper_name": false,
+    "source_page": 227,
+    "source_image": "upload/IMG_2579.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "b79cbda5084f752ee9612307",
+    "unit": 6,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "le touriste / la touriste",
+    "german": "der Tourist; die Touristin",
+    "french_forms": [
+      "le touriste",
+      "la touriste"
+    ],
+    "proper_name": false,
+    "source_page": 227,
+    "source_image": "upload/IMG_2579.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "ed72d1e55c4a8ad9f8cd421f",
+    "unit": 6,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "quand même",
+    "german": "trotzdem; dennoch",
+    "french_forms": [
+      "quand même"
+    ],
+    "proper_name": false,
+    "source_page": 227,
+    "source_image": "upload/IMG_2579.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "02c7da96f4bfa851b05eea68",
+    "unit": 6,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "Combien de ... ?",
+    "german": "Wie viele ...?",
+    "french_forms": [
+      "Combien de ... ?"
+    ],
+    "proper_name": false,
+    "source_page": 227,
+    "source_image": "upload/IMG_2579.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "5ec93c0d637e792d942af571",
+    "unit": 6,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "le jeune / la jeune",
+    "german": "der Jugendliche; die Jugendliche",
+    "french_forms": [
+      "le jeune",
+      "la jeune"
+    ],
+    "proper_name": false,
+    "source_page": 227,
+    "source_image": "upload/IMG_2579.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "feffe3389d79f20da14fe9c3",
+    "unit": 6,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "le ciné",
+    "german": "das Kino",
+    "french_forms": [
+      "le ciné"
+    ],
+    "proper_name": false,
+    "source_page": 227,
+    "source_image": "upload/IMG_2579.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "2ac793f2a8cca0441f1826ab",
+    "unit": 6,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "le centre commercial",
+    "german": "das Einkaufszentrum",
+    "french_forms": [
+      "le centre commercial"
+    ],
+    "proper_name": false,
+    "source_page": 227,
+    "source_image": "upload/IMG_2579.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "4f03673c0a862090f7137004",
+    "unit": 6,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "ne ... pas de",
+    "german": "kein",
+    "french_forms": [
+      "ne ... pas de"
+    ],
+    "proper_name": false,
+    "source_page": 227,
+    "source_image": "upload/IMG_2579.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "354865738850ff14a1632349",
+    "unit": 6,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "assez de",
+    "german": "genug",
+    "french_forms": [
+      "assez de"
+    ],
+    "proper_name": false,
+    "source_page": 227,
+    "source_image": "upload/IMG_2579.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "c4903e36469014beb3f65a7e",
+    "unit": 6,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "le magasin",
+    "german": "das Geschäft",
+    "french_forms": [
+      "le magasin"
+    ],
+    "proper_name": false,
+    "source_page": 227,
+    "source_image": "upload/IMG_2579.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "259d5dcfa88390a2372ccd53",
+    "unit": 6,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "depuis des mois",
+    "german": "seit Monaten",
+    "french_forms": [
+      "depuis des mois"
+    ],
+    "proper_name": false,
+    "source_page": 227,
+    "source_image": "upload/IMG_2579.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "1ad0dbc27d0484c64bcd8945",
+    "unit": 6,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "le mois",
+    "german": "der Monat",
+    "french_forms": [
+      "le mois"
+    ],
+    "proper_name": false,
+    "source_page": 227,
+    "source_image": "upload/IMG_2579.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "2452d997947cafec9cbc14eb",
+    "unit": 6,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "ne ... plus de",
+    "german": "kein ... mehr",
+    "french_forms": [
+      "ne ... plus de"
+    ],
+    "proper_name": false,
+    "source_page": 227,
+    "source_image": "upload/IMG_2579.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "ae1009ac1b7ff2fb3915a634",
+    "unit": 6,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "le café",
+    "german": "das Café",
+    "french_forms": [
+      "le café"
+    ],
+    "proper_name": false,
+    "source_page": 228,
+    "source_image": "upload/IMG_2580.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "fa376fad001febdee13cc720",
+    "unit": 6,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "le supermarché",
+    "german": "der Supermarkt",
+    "french_forms": [
+      "le supermarché"
+    ],
+    "proper_name": false,
+    "source_page": 228,
+    "source_image": "upload/IMG_2580.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "c2e842b4ab6060c087c295c2",
+    "unit": 6,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "la boulangerie",
+    "german": "die Bäckerei",
+    "french_forms": [
+      "la boulangerie"
+    ],
+    "proper_name": false,
+    "source_page": 228,
+    "source_image": "upload/IMG_2580.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "1e397364d11481938e2a8e1a",
+    "unit": 6,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "loin de",
+    "german": "weit entfernt von",
+    "french_forms": [
+      "loin de"
+    ],
+    "proper_name": false,
+    "source_page": 228,
+    "source_image": "upload/IMG_2580.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "61c2fbb83f9d8f9a4d4152f3",
+    "unit": 6,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "le centre",
+    "german": "das Zentrum",
+    "french_forms": [
+      "le centre"
+    ],
+    "proper_name": false,
+    "source_page": 228,
+    "source_image": "upload/IMG_2580.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "455ca17a8407198559af0148",
+    "unit": 6,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "petit / petite",
+    "german": "klein",
+    "french_forms": [
+      "petit",
+      "petite"
+    ],
+    "proper_name": false,
+    "source_page": 228,
+    "source_image": "upload/IMG_2580.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "e94c93224f197f077e9bca9a",
+    "unit": 6,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "la piscine",
+    "german": "das Schwimmbad",
+    "french_forms": [
+      "la piscine"
+    ],
+    "proper_name": false,
+    "source_page": 228,
+    "source_image": "upload/IMG_2580.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "acbe00e9245ff9728eddb681",
+    "unit": 6,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "le stade",
+    "german": "das Stadion",
+    "french_forms": [
+      "le stade"
+    ],
+    "proper_name": false,
+    "source_page": 228,
+    "source_image": "upload/IMG_2580.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  }
+]

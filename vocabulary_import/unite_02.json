@@ -1,0 +1,1642 @@
+[
+  {
+    "id": "1c667c4d1ff660cae246f30d",
+    "unit": 2,
+    "volet": 1,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "à la maison",
+    "german": "zu Hause; daheim",
+    "french_forms": [
+      "à la maison"
+    ],
+    "proper_name": false,
+    "source_page": 199,
+    "source_image": "upload/IMG_2551.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "24ed8955b03f1cf1a82fa5ea",
+    "unit": 2,
+    "volet": 1,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "la maison",
+    "german": "das Haus",
+    "french_forms": [
+      "la maison"
+    ],
+    "proper_name": false,
+    "source_page": 199,
+    "source_image": "upload/IMG_2551.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "ffff83b5184254b24b582129",
+    "unit": 2,
+    "volet": 1,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "chez moi",
+    "german": "bei mir (zu Hause)",
+    "french_forms": [
+      "chez moi"
+    ],
+    "proper_name": false,
+    "source_page": 199,
+    "source_image": "upload/IMG_2551.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "dc2e7ebfccf7bbc335aafd5a",
+    "unit": 2,
+    "volet": 1,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "chez",
+    "german": "bei",
+    "french_forms": [
+      "chez"
+    ],
+    "proper_name": false,
+    "source_page": 199,
+    "source_image": "upload/IMG_2551.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "9a78e603ee74afaa7cfc76ca",
+    "unit": 2,
+    "volet": 1,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "un / une",
+    "german": "ein; eine",
+    "french_forms": [
+      "un",
+      "une"
+    ],
+    "proper_name": false,
+    "source_page": 199,
+    "source_image": "upload/IMG_2551.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "cc57c846c048119e67c45331",
+    "unit": 2,
+    "volet": 1,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "l'armoire",
+    "german": "der Schrank",
+    "french_forms": [
+      "l'armoire"
+    ],
+    "proper_name": false,
+    "source_page": 199,
+    "source_image": "upload/IMG_2551.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "548c33ce5b659366a45d7d59",
+    "unit": 2,
+    "volet": 1,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "des",
+    "german": "unbestimmter Artikel im Plural (wird nicht übersetzt)",
+    "french_forms": [
+      "des"
+    ],
+    "proper_name": false,
+    "source_page": 199,
+    "source_image": "upload/IMG_2551.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "6c27a0f663d48dcfa0ba38bd",
+    "unit": 2,
+    "volet": 1,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "le livre",
+    "german": "das Buch",
+    "french_forms": [
+      "le livre"
+    ],
+    "proper_name": false,
+    "source_page": 199,
+    "source_image": "upload/IMG_2551.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "2715e54af50e538c4492dbdc",
+    "unit": 2,
+    "volet": 1,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "la lampe",
+    "german": "die Lampe",
+    "french_forms": [
+      "la lampe"
+    ],
+    "proper_name": false,
+    "source_page": 199,
+    "source_image": "upload/IMG_2551.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "5ec5d6ee615a6652086b2f42",
+    "unit": 2,
+    "volet": 1,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "l'étagère",
+    "german": "das Regal",
+    "french_forms": [
+      "l'étagère"
+    ],
+    "proper_name": false,
+    "source_page": 199,
+    "source_image": "upload/IMG_2551.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "d2196a4f25d5ee7bb7f58a98",
+    "unit": 2,
+    "volet": 1,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "la minichaîne",
+    "german": "die Mini-Stereoanlage",
+    "french_forms": [
+      "la minichaîne"
+    ],
+    "proper_name": false,
+    "source_page": 199,
+    "source_image": "upload/IMG_2551.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "7eb5421372e6cf7c263f6737",
+    "unit": 2,
+    "volet": 1,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "le lit",
+    "german": "das Bett",
+    "french_forms": [
+      "le lit"
+    ],
+    "proper_name": false,
+    "source_page": 199,
+    "source_image": "upload/IMG_2551.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "313ddb122588dc6a2a785ea1",
+    "unit": 2,
+    "volet": 1,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "la chaise",
+    "german": "der Stuhl",
+    "french_forms": [
+      "la chaise"
+    ],
+    "proper_name": false,
+    "source_page": 199,
+    "source_image": "upload/IMG_2551.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "d28abe1878e931cf3a8e7862",
+    "unit": 2,
+    "volet": 1,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "ma chambre / ta chambre",
+    "german": "mein Zimmer; dein Zimmer",
+    "french_forms": [
+      "ma chambre",
+      "ta chambre"
+    ],
+    "proper_name": false,
+    "source_page": 199,
+    "source_image": "upload/IMG_2551.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "4148b70781c2485bec94fe6f",
+    "unit": 2,
+    "volet": 1,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "la chambre",
+    "german": "das Schlafzimmer",
+    "french_forms": [
+      "la chambre"
+    ],
+    "proper_name": false,
+    "source_page": 199,
+    "source_image": "upload/IMG_2551.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "2fd575d74ac86c777ff9fd1b",
+    "unit": 2,
+    "volet": 1,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "il y a",
+    "german": "es gibt",
+    "french_forms": [
+      "il y a"
+    ],
+    "proper_name": false,
+    "source_page": 199,
+    "source_image": "upload/IMG_2551.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "a5012181b8d5c8d082f5217f",
+    "unit": 2,
+    "volet": 1,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "le poster",
+    "german": "das Poster",
+    "french_forms": [
+      "le poster"
+    ],
+    "proper_name": false,
+    "source_page": 199,
+    "source_image": "upload/IMG_2551.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "cbea82a31530a25865e84238",
+    "unit": 2,
+    "volet": 1,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "la photo",
+    "german": "das Foto; das Bild",
+    "french_forms": [
+      "la photo"
+    ],
+    "proper_name": false,
+    "source_page": 199,
+    "source_image": "upload/IMG_2551.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "478256a7ec100b9a3a0c7081",
+    "unit": 2,
+    "volet": 1,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "partout",
+    "german": "überall",
+    "french_forms": [
+      "partout"
+    ],
+    "proper_name": false,
+    "source_page": 199,
+    "source_image": "upload/IMG_2551.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "7244b365e7942c1d489bf082",
+    "unit": 2,
+    "volet": 1,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "le coin musique",
+    "german": "die Musikecke",
+    "french_forms": [
+      "le coin musique"
+    ],
+    "proper_name": false,
+    "source_page": 199,
+    "source_image": "upload/IMG_2551.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "3fc71ef1ea74d269df6f31c9",
+    "unit": 2,
+    "volet": 1,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "le coin",
+    "german": "die Ecke",
+    "french_forms": [
+      "le coin"
+    ],
+    "proper_name": false,
+    "source_page": 199,
+    "source_image": "upload/IMG_2551.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "43609fdeed4c6b8c26cfad61",
+    "unit": 2,
+    "volet": 1,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "la musique",
+    "german": "die Musik",
+    "french_forms": [
+      "la musique"
+    ],
+    "proper_name": false,
+    "source_page": 199,
+    "source_image": "upload/IMG_2551.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "d83157723ce8f8a5e9b5aebd",
+    "unit": 2,
+    "volet": 1,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "la guitare",
+    "german": "die Gitarre",
+    "french_forms": [
+      "la guitare"
+    ],
+    "proper_name": false,
+    "source_page": 199,
+    "source_image": "upload/IMG_2551.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "e7c1e7fe69f51ff2c5f7c2b0",
+    "unit": 2,
+    "volet": 1,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "le CD / les CD",
+    "german": "die CD",
+    "french_forms": [
+      "le CD",
+      "les CD"
+    ],
+    "proper_name": false,
+    "source_page": 199,
+    "source_image": "upload/IMG_2551.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "c503bede81127c9da1b6f0cf",
+    "unit": 2,
+    "volet": 1,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "l'ordinateur",
+    "german": "der Computer",
+    "french_forms": [
+      "l'ordinateur"
+    ],
+    "proper_name": false,
+    "source_page": 199,
+    "source_image": "upload/IMG_2551.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "9b5d382ddd0ca04f4de5100d",
+    "unit": 2,
+    "volet": 1,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "le hamac",
+    "german": "die Hängematte",
+    "french_forms": [
+      "le hamac"
+    ],
+    "proper_name": false,
+    "source_page": 199,
+    "source_image": "upload/IMG_2551.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "aa369566a9f42b6504bb6599",
+    "unit": 2,
+    "volet": 1,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "la table",
+    "german": "der Tisch",
+    "french_forms": [
+      "la table"
+    ],
+    "proper_name": false,
+    "source_page": 199,
+    "source_image": "upload/IMG_2551.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "71709e94c0fd6f8ae5d45c72",
+    "unit": 2,
+    "volet": 1,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "la bédé / B. D. / les B. D.",
+    "german": "der Comic",
+    "french_forms": [
+      "la bédé",
+      "B. D.",
+      "les B. D."
+    ],
+    "proper_name": false,
+    "source_page": 200,
+    "source_image": "upload/IMG_2552(1).jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "146fe53d3b406096dc0bdb57",
+    "unit": 2,
+    "volet": 1,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "la collection",
+    "german": "die Sammlung",
+    "french_forms": [
+      "la collection"
+    ],
+    "proper_name": false,
+    "source_page": 200,
+    "source_image": "upload/IMG_2552(1).jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "9e2cb32a191555547a046fc2",
+    "unit": 2,
+    "volet": 1,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "la figurine",
+    "german": "die Figur",
+    "french_forms": [
+      "la figurine"
+    ],
+    "proper_name": false,
+    "source_page": 200,
+    "source_image": "upload/IMG_2552(1).jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "9d05d2e11e5b195af0000a7d",
+    "unit": 2,
+    "volet": 1,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "Qu'est-ce qu'il y a ?",
+    "german": "Was gibt es?",
+    "french_forms": [
+      "Qu'est-ce qu'il y a ?"
+    ],
+    "proper_name": false,
+    "source_page": 200,
+    "source_image": "upload/IMG_2552(1).jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "5e04a8b273c6ce0ad7821402",
+    "unit": 2,
+    "volet": 1,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "Qu'est-ce que ... ?",
+    "german": "Was ...?",
+    "french_forms": [
+      "Qu'est-ce que ... ?"
+    ],
+    "proper_name": false,
+    "source_page": 200,
+    "source_image": "upload/IMG_2552(1).jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "65a6e43bb01b99c7330cc61f",
+    "unit": 2,
+    "volet": 1,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "encore",
+    "german": "noch",
+    "french_forms": [
+      "encore"
+    ],
+    "proper_name": false,
+    "source_page": 200,
+    "source_image": "upload/IMG_2552(1).jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "8c14d34d4ca935513fef0020",
+    "unit": 2,
+    "volet": 1,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "la géo / la géographie",
+    "german": "die Geographie",
+    "french_forms": [
+      "la géo",
+      "la géographie"
+    ],
+    "proper_name": false,
+    "source_page": 200,
+    "source_image": "upload/IMG_2552(1).jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "a5a53fbf2a360052892951db",
+    "unit": 2,
+    "volet": 1,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "la pierre",
+    "german": "der Stein",
+    "french_forms": [
+      "la pierre"
+    ],
+    "proper_name": false,
+    "source_page": 200,
+    "source_image": "upload/IMG_2552(1).jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "43025b939ebc66f5fa13670b",
+    "unit": 2,
+    "volet": 1,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "le globe",
+    "german": "der Globus",
+    "french_forms": [
+      "le globe"
+    ],
+    "proper_name": false,
+    "source_page": 200,
+    "source_image": "upload/IMG_2552(1).jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "c3eb69d6f054edbce95dcd88",
+    "unit": 2,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "la salle de bains",
+    "german": "das Badezimmer",
+    "french_forms": [
+      "la salle de bains"
+    ],
+    "proper_name": false,
+    "source_page": 200,
+    "source_image": "upload/IMG_2552(1).jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "2a4ba2abc0a0f58c45701023",
+    "unit": 2,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "maman",
+    "german": "Mama",
+    "french_forms": [
+      "maman"
+    ],
+    "proper_name": false,
+    "source_page": 200,
+    "source_image": "upload/IMG_2552(1).jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "fbfa702054b08e0fc1ef3b7e",
+    "unit": 2,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "où",
+    "german": "wo; wohin",
+    "french_forms": [
+      "où"
+    ],
+    "proper_name": false,
+    "source_page": 200,
+    "source_image": "upload/IMG_2552(1).jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "0c4f28b942de45b9670b9275",
+    "unit": 2,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "le shampoing",
+    "german": "das Shampoo",
+    "french_forms": [
+      "le shampoing"
+    ],
+    "proper_name": false,
+    "source_page": 200,
+    "source_image": "upload/IMG_2552(1).jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "86990dfee00a717105fe05cb",
+    "unit": 2,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "sur",
+    "german": "auf",
+    "french_forms": [
+      "sur"
+    ],
+    "proper_name": false,
+    "source_page": 200,
+    "source_image": "upload/IMG_2552(1).jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "e73825ee8e972e491610a0b8",
+    "unit": 2,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "à droite",
+    "german": "rechts",
+    "french_forms": [
+      "à droite"
+    ],
+    "proper_name": false,
+    "source_page": 200,
+    "source_image": "upload/IMG_2552(1).jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "1db5438098a7ac88e56f3ea0",
+    "unit": 2,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "la cuisine",
+    "german": "die Küche",
+    "french_forms": [
+      "la cuisine"
+    ],
+    "proper_name": false,
+    "source_page": 200,
+    "source_image": "upload/IMG_2552(1).jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "c056247ee1ff4b28a07ed9c1",
+    "unit": 2,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "le biscuit",
+    "german": "der Keks",
+    "french_forms": [
+      "le biscuit"
+    ],
+    "proper_name": false,
+    "source_page": 200,
+    "source_image": "upload/IMG_2552(1).jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "575a00e4b6cbae3879e468e5",
+    "unit": 2,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "le placard",
+    "german": "der Wandschrank",
+    "french_forms": [
+      "le placard"
+    ],
+    "proper_name": false,
+    "source_page": 200,
+    "source_image": "upload/IMG_2552(1).jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "52ce91eafa729b8f86123073",
+    "unit": 2,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "à gauche",
+    "german": "links",
+    "french_forms": [
+      "à gauche"
+    ],
+    "proper_name": false,
+    "source_page": 200,
+    "source_image": "upload/IMG_2552(1).jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "7ace6d8ae20dc9b9dbd21c47",
+    "unit": 2,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "le couloir",
+    "german": "der Flur",
+    "french_forms": [
+      "le couloir"
+    ],
+    "proper_name": false,
+    "source_page": 200,
+    "source_image": "upload/IMG_2552(1).jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "635232370239d401d453600d",
+    "unit": 2,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "papa",
+    "german": "Papa",
+    "french_forms": [
+      "papa"
+    ],
+    "proper_name": false,
+    "source_page": 200,
+    "source_image": "upload/IMG_2552(1).jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "76d3f2b320f3f63b8c214277",
+    "unit": 2,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "la clé",
+    "german": "der Schlüssel",
+    "french_forms": [
+      "la clé"
+    ],
+    "proper_name": false,
+    "source_page": 201,
+    "source_image": "upload/IMG_2553.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "992689358546c36fb61413ca",
+    "unit": 2,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "l'appartement",
+    "german": "die Wohnung",
+    "french_forms": [
+      "l'appartement"
+    ],
+    "proper_name": false,
+    "source_page": 201,
+    "source_image": "upload/IMG_2553.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "23dadc90673ae8bf9d41e15a",
+    "unit": 2,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "ZAZ",
+    "german": "französische Sängerin",
+    "french_forms": [
+      "ZAZ"
+    ],
+    "proper_name": true,
+    "source_page": 201,
+    "source_image": "upload/IMG_2553.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "818397d95763bdb048e2bced",
+    "unit": 2,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "devant",
+    "german": "vor",
+    "french_forms": [
+      "devant"
+    ],
+    "proper_name": false,
+    "source_page": 201,
+    "source_image": "upload/IMG_2553.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "079db02b05f4d4566bd999a8",
+    "unit": 2,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "derrière",
+    "german": "hinter",
+    "french_forms": [
+      "derrière"
+    ],
+    "proper_name": false,
+    "source_page": 201,
+    "source_image": "upload/IMG_2553.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "246b0a8499b6be4b08720a8e",
+    "unit": 2,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "sous",
+    "german": "unter",
+    "french_forms": [
+      "sous"
+    ],
+    "proper_name": false,
+    "source_page": 201,
+    "source_image": "upload/IMG_2553.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "53a67d4294200bbab1ccd712",
+    "unit": 2,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "la salle de séjour",
+    "german": "das Wohnzimmer",
+    "french_forms": [
+      "la salle de séjour"
+    ],
+    "proper_name": false,
+    "source_page": 201,
+    "source_image": "upload/IMG_2553.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "6f1a37cca10349cb702f5bba",
+    "unit": 2,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "la télécommande",
+    "german": "die Fernbedienung",
+    "french_forms": [
+      "la télécommande"
+    ],
+    "proper_name": false,
+    "source_page": 201,
+    "source_image": "upload/IMG_2553.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "42e9987c3dbe12a8b4cdb7ac",
+    "unit": 2,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "entre",
+    "german": "zwischen",
+    "french_forms": [
+      "entre"
+    ],
+    "proper_name": false,
+    "source_page": 201,
+    "source_image": "upload/IMG_2553.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "1cc8c44c712d1728636bf642",
+    "unit": 2,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "la télé / la télévision",
+    "german": "der Fernseher",
+    "french_forms": [
+      "la télé",
+      "la télévision"
+    ],
+    "proper_name": false,
+    "source_page": 201,
+    "source_image": "upload/IMG_2553.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "0793774cdfad724f021a488c",
+    "unit": 2,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "après",
+    "german": "nach",
+    "french_forms": [
+      "après"
+    ],
+    "proper_name": false,
+    "source_page": 201,
+    "source_image": "upload/IMG_2553.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "0903cb7f0fdc14f13fafa4f0",
+    "unit": 2,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "Elle rentre à la maison.",
+    "german": "Sie geht nach Hause.",
+    "french_forms": [
+      "Elle rentre à la maison."
+    ],
+    "proper_name": false,
+    "source_page": 201,
+    "source_image": "upload/IMG_2553.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "ec46cbb843e4c80a6557fa32",
+    "unit": 2,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "rentrer (à la maison)",
+    "german": "nach Hause gehen",
+    "french_forms": [
+      "rentrer (à la maison)"
+    ],
+    "proper_name": false,
+    "source_page": 201,
+    "source_image": "upload/IMG_2553.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "303ef07c58f26d2e751d9d38",
+    "unit": 2,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "les devoirs",
+    "german": "die Hausaufgaben",
+    "french_forms": [
+      "les devoirs"
+    ],
+    "proper_name": false,
+    "source_page": 201,
+    "source_image": "upload/IMG_2553.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "126bc76426ade933c431368f",
+    "unit": 2,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "elle écoute",
+    "german": "sie hört",
+    "french_forms": [
+      "elle écoute"
+    ],
+    "proper_name": false,
+    "source_page": 201,
+    "source_image": "upload/IMG_2553.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "9977caeb6ea5bfc2d2fbebe0",
+    "unit": 2,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "écouter qn/qc",
+    "german": "etwas anhören; jemandem zuhören; auf jemanden hören",
+    "french_forms": [
+      "écouter qn/qc"
+    ],
+    "proper_name": false,
+    "source_page": 201,
+    "source_image": "upload/IMG_2553.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "01ca34010252ea8e00e74f83",
+    "unit": 2,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "elle cherche",
+    "german": "sie sucht",
+    "french_forms": [
+      "elle cherche"
+    ],
+    "proper_name": false,
+    "source_page": 201,
+    "source_image": "upload/IMG_2553.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "858286155d1ff704f7203ada",
+    "unit": 2,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "chercher",
+    "german": "suchen",
+    "french_forms": [
+      "chercher"
+    ],
+    "proper_name": false,
+    "source_page": 201,
+    "source_image": "upload/IMG_2553.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "0be36d8990a0319c7a18525b",
+    "unit": 2,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "l'information",
+    "german": "die Information",
+    "french_forms": [
+      "l'information"
+    ],
+    "proper_name": false,
+    "source_page": 202,
+    "source_image": "upload/IMG_2554(1).jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "63bd723794e711758f682832",
+    "unit": 2,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "Internet",
+    "german": "das Internet",
+    "french_forms": [
+      "Internet"
+    ],
+    "proper_name": false,
+    "source_page": 202,
+    "source_image": "upload/IMG_2554(1).jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "543ecda15a3d64300d803b2e",
+    "unit": 2,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "elle chatte",
+    "german": "sie chattet",
+    "french_forms": [
+      "elle chatte"
+    ],
+    "proper_name": false,
+    "source_page": 202,
+    "source_image": "upload/IMG_2554(1).jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "63a59247349abf1a6f79313c",
+    "unit": 2,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "chatter",
+    "german": "chatten",
+    "french_forms": [
+      "chatter"
+    ],
+    "proper_name": false,
+    "source_page": 202,
+    "source_image": "upload/IMG_2554(1).jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "2069538f026d4a156cf2555f",
+    "unit": 2,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "le copain / la copine",
+    "german": "der Freund; die Freundin; der Kumpel",
+    "french_forms": [
+      "le copain",
+      "la copine"
+    ],
+    "proper_name": false,
+    "source_page": 202,
+    "source_image": "upload/IMG_2554(1).jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "93efa4785af290f0b146e542",
+    "unit": 2,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "elle téléphone",
+    "german": "sie telefoniert",
+    "french_forms": [
+      "elle téléphone"
+    ],
+    "proper_name": false,
+    "source_page": 202,
+    "source_image": "upload/IMG_2554(1).jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "4676fde8e81ec2652ddde6f9",
+    "unit": 2,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "téléphoner",
+    "german": "telefonieren",
+    "french_forms": [
+      "téléphoner"
+    ],
+    "proper_name": false,
+    "source_page": 202,
+    "source_image": "upload/IMG_2554(1).jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "1479056e7f7397026c7eb163",
+    "unit": 2,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "elle rêve",
+    "german": "sie träumt",
+    "french_forms": [
+      "elle rêve"
+    ],
+    "proper_name": false,
+    "source_page": 202,
+    "source_image": "upload/IMG_2554(1).jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "4ba5485c7d0855f439f6331f",
+    "unit": 2,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "rêver",
+    "german": "träumen",
+    "french_forms": [
+      "rêver"
+    ],
+    "proper_name": false,
+    "source_page": 202,
+    "source_image": "upload/IMG_2554(1).jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "f8fcc4c8926bde8961ac0f72",
+    "unit": 2,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "Qu'est-ce qu'il y a ?",
+    "german": "Was ist los?",
+    "french_forms": [
+      "Qu'est-ce qu'il y a ?"
+    ],
+    "proper_name": false,
+    "source_page": 202,
+    "source_image": "upload/IMG_2554(1).jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "85661fa8d75dae6a67c285e1",
+    "unit": 2,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "Qu'est-ce que tu fais ?",
+    "german": "Was machst du?",
+    "french_forms": [
+      "Qu'est-ce que tu fais ?"
+    ],
+    "proper_name": false,
+    "source_page": 202,
+    "source_image": "upload/IMG_2554(1).jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "bbd66a9974e0d383f44ab515",
+    "unit": 2,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "je travaille",
+    "german": "ich lerne; ich arbeite",
+    "french_forms": [
+      "je travaille"
+    ],
+    "proper_name": false,
+    "source_page": 202,
+    "source_image": "upload/IMG_2554(1).jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "dca315229fc871fee2d0170e",
+    "unit": 2,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "travailler",
+    "german": "arbeiten; lernen",
+    "french_forms": [
+      "travailler"
+    ],
+    "proper_name": false,
+    "source_page": 202,
+    "source_image": "upload/IMG_2554(1).jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "e9cae412db1466cec7846cfd",
+    "unit": 2,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "Tu m'énerves.",
+    "german": "Du nervst mich.",
+    "french_forms": [
+      "Tu m'énerves."
+    ],
+    "proper_name": false,
+    "source_page": 202,
+    "source_image": "upload/IMG_2554(1).jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "4fe3831a70c177853e5a0777",
+    "unit": 2,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "maintenant",
+    "german": "jetzt",
+    "french_forms": [
+      "maintenant"
+    ],
+    "proper_name": false,
+    "source_page": 202,
+    "source_image": "upload/IMG_2554(1).jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "1630765b04b0fadb5e883a06",
+    "unit": 2,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "elle chante",
+    "german": "sie singt",
+    "french_forms": [
+      "elle chante"
+    ],
+    "proper_name": false,
+    "source_page": 202,
+    "source_image": "upload/IMG_2554(1).jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "e0e75f905572e273da71a67b",
+    "unit": 2,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "chanter",
+    "german": "singen",
+    "french_forms": [
+      "chanter"
+    ],
+    "proper_name": false,
+    "source_page": 202,
+    "source_image": "upload/IMG_2554(1).jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "5b9e76485ce66b3f363895d9",
+    "unit": 2,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "tu joues",
+    "german": "du spielst",
+    "french_forms": [
+      "tu joues"
+    ],
+    "proper_name": false,
+    "source_page": 202,
+    "source_image": "upload/IMG_2554(1).jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "449a4161c3de2a91a51b12c7",
+    "unit": 2,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "jouer (avec qn)",
+    "german": "(mit jemandem) spielen",
+    "french_forms": [
+      "jouer (avec qn)"
+    ],
+    "proper_name": false,
+    "source_page": 202,
+    "source_image": "upload/IMG_2554(1).jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "0a45e4c480e68af83ee73244",
+    "unit": 2,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "Pas maintenant.",
+    "german": "Nicht jetzt.",
+    "french_forms": [
+      "Pas maintenant."
+    ],
+    "proper_name": false,
+    "source_page": 202,
+    "source_image": "upload/IMG_2554(1).jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "911fc4697e9cc802d2a61e06",
+    "unit": 2,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "s'il te plaît",
+    "german": "bitte (beim Duzen)",
+    "french_forms": [
+      "s'il te plaît"
+    ],
+    "proper_name": false,
+    "source_page": 202,
+    "source_image": "upload/IMG_2554(1).jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "9ace5d438b5e58e39f5a0ba3",
+    "unit": 2,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "Joue avec moi.",
+    "german": "Spiel mit mir!",
+    "french_forms": [
+      "Joue avec moi."
+    ],
+    "proper_name": false,
+    "source_page": 202,
+    "source_image": "upload/IMG_2554(1).jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "4219010207b66f9662c30c55",
+    "unit": 2,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "Jouez avec moi.",
+    "german": "Spielt mit mir!",
+    "french_forms": [
+      "Jouez avec moi."
+    ],
+    "proper_name": false,
+    "source_page": 202,
+    "source_image": "upload/IMG_2554(1).jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "091f1fcc8f04a2cf3a1dd5fa",
+    "unit": 2,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "s'il vous plaît",
+    "german": "bitte (mehrere Personen oder beim Siezen)",
+    "french_forms": [
+      "s'il vous plaît"
+    ],
+    "proper_name": false,
+    "source_page": 202,
+    "source_image": "upload/IMG_2554(1).jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "9d4d3f468ef4c737c5cb6d44",
+    "unit": 2,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "regarder la télé",
+    "german": "fernsehen",
+    "french_forms": [
+      "regarder la télé"
+    ],
+    "proper_name": false,
+    "source_page": 203,
+    "source_image": "upload/IMG_2555.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "e28630e5c7bec9cf5ad4a0a7",
+    "unit": 2,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "toujours",
+    "german": "immer",
+    "french_forms": [
+      "toujours"
+    ],
+    "proper_name": false,
+    "source_page": 203,
+    "source_image": "upload/IMG_2555.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "da80695a88e9e1a1fca77b5e",
+    "unit": 2,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "d'accord",
+    "german": "einverstanden",
+    "french_forms": [
+      "d'accord"
+    ],
+    "proper_name": false,
+    "source_page": 203,
+    "source_image": "upload/IMG_2555.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "e2c654caae58940bb2b56d9d",
+    "unit": 2,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "la partie de cartes",
+    "german": "eine Runde Karten",
+    "french_forms": [
+      "la partie de cartes"
+    ],
+    "proper_name": false,
+    "source_page": 203,
+    "source_image": "upload/IMG_2555.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "995a3c0391723e820d93c3d9",
+    "unit": 2,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "la carte",
+    "german": "die Karte; die Spielkarte",
+    "french_forms": [
+      "la carte"
+    ],
+    "proper_name": false,
+    "source_page": 203,
+    "source_image": "upload/IMG_2555.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "5aebc2a599bc12b4a63c73a7",
+    "unit": 2,
+    "volet": 3,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "merci",
+    "german": "danke",
+    "french_forms": [
+      "merci"
+    ],
+    "proper_name": false,
+    "source_page": 203,
+    "source_image": "upload/IMG_2555.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  }
+]

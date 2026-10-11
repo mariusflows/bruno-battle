@@ -1,26 +1,18 @@
-# Bruno Battle – Französisch V1
+# Bruno Battle V3
 
-Spielbare, dependency-freie Web-App (eine `index.html`) mit Vokabeltraining, Grammatik, Transfer, Battle-Modus, Combo-Punkten, Fehlertraining, Highscores und Lernkurven.
+## Update
+1. ZIP entpacken.
+2. Alle Dateien und den Ordner vocabulary_import in das bestehende GitHub-Repository hochladen und vorhandene App-Dateien ersetzen.
+3. Bestehende ausgefüllte config.js behalten; sie enthält die aktuelle Cloud-Konfiguration.
+4. Änderungen committen. Nach dem Vercel-Deployment Seite neu laden.
+5. Training öffnen, Unité auswählen und starten.
 
-## Starten
+883 Wortlisteneinträge: 784 in Units 1–8, 99 in Zusatzmodulen. Filter nach Unit und Volet. Zusatzmodule optional. Alle Vokabeln sind in vocabulary.js enthalten; ein SQL-Import ist zum Spielen nicht erforderlich.
 
-`index.html` im Browser öffnen oder lokal einen Webserver starten: `python3 -m http.server 8080` und `http://localhost:8080` besuchen.
+V2-Spielstände bleiben auf derselben Domain im selben Browser erhalten (derselbe Speicherschlüssel). Browserdaten nicht löschen. Gegnerfortschritt wird pro Unit gespeichert. Frühere Antworten auf die alten Vokabelfragen bleiben statistisch erhalten, ihre alten Fehlerkarten werden nicht auf neue Wort-IDs geraten. Neue Fehlerkarten verwenden die neuen Vokabeln.
 
-## Auf Vercel veröffentlichen
+Grammatik, eigenständig verfasste Textmissionen und Transferaufgaben aus V2 gelten weiterhin für Unit 1. Buchübungen 22/23 sind in diesem Update noch nicht ergänzt. Keine Lautschrift oder Beispielsätze aus der Wortliste. Zusammengehörige Formen bleiben in einer Karte; bei Texteingabe alle Formen durch / getrennt eingeben. Akzente werden wie in V2 tolerant bewertet.
 
-1. Neues GitHub-Repository `bruno-battle` erstellen.
-2. `index.html`, `manifest.webmanifest`, `vercel.json` und `README.md` im Stammverzeichnis hochladen.
-3. In Vercel **Add New → Project**, Repository importieren.
-4. Framework Preset **Other** auswählen. Root Directory `./`, Build Command leer lassen, Output Directory leer/Standard; deployen.
+Supabase-Konfiguration und supabase.sql aus V2 bleiben unverändert. Cloud-Einrichtung und Test am tatsächlichen Supabase-Projekt sind nicht Bestandteil dieses Updates. vocabulary_import enthält die JSON/CSV-Quelldaten sowie einen optionalen PostgreSQL-Import in eine separate Tabelle; die App nutzt diese Tabelle nicht.
 
-## Wichtige Grenzen von V1
-
-- **Keine Supabase-Anbindung:** Fortschritt und Stats werden ausschließlich im jeweiligen Browser mittels `localStorage` gespeichert. Andere Geräte synchronisieren nicht. Keine Kinderprofile mit Passwort und keine öffentliche Rangliste.
-- **Kein KI-Einsatz im Spielbetrieb:** Antworten werden nach Regeln abgeglichen. Freie vollständige Sätze werden nur gegen vorbereitete Musterlösungen geprüft. Akzente und gewöhnliche Satzzeichen werden beim Abgleich toleriert. Komplexe Synonyme und semantisch gleichwertige Umformulierungen werden noch nicht zuverlässig erkannt.
-- **Lehrwerk:** Die hochgeladenen Fotos enthalten mehrere Unités. Der Starter-Fragenpool nutzt grundlegende Einheiten-1-/Begrüßungs- und Klassenzimmermuster; die genaue Ausgabe-/Lektionen-Zuordnung muss vor einer vollständigen schulbuchtreuen Abdeckung mit Buchseiten/Lehrplan gegengeprüft werden. Die Fragen und Erklärungen sind eigens formuliert, keine Abschrift der Buchseiten.
-- **V1 Sicherheit:** Für eine echte Supabase-Mehrbenutzer-Version wird Supabase Auth oder gleichwertige sichere Anmeldung, RLS und eine serverseitige Berechtigungsprüfung benötigt. Eine vierstellige PIN allein genügt nicht.
-- **PWA:** Installationsmanifest vorhanden; Offline-Funktion und App-Icons folgen in einer späteren Version.
-
-## Datenmodell für spätere Cloud-Version
-
-users / child_profiles / lessons / questions / answer_attempts / game_sessions; Parent/child roles mit serverseitig überprüften Zugriffsrechten.
+Validierung: JavaScript-Syntax, Datenzählung, Frageauswahl für Units 1–8, Modul-/Voletfilter, Fehlerauswahl und Speichern geprüft. Vollständiger Browsertest und Supabase-Test stehen aus.

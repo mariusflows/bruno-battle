@@ -1,0 +1,1338 @@
+[
+  {
+    "id": "74b3291741089b93bcc2bcdf",
+    "unit": 8,
+    "volet": 1,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "Marseille",
+    "german": "französische Stadt am Mittelmeer",
+    "french_forms": [
+      "Marseille"
+    ],
+    "proper_name": true,
+    "source_page": 235,
+    "source_image": "upload/IMG_2587.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "5c094b2680ec4c4fdd89b19a",
+    "unit": 8,
+    "volet": 1,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "la plage",
+    "german": "der Strand",
+    "french_forms": [
+      "la plage"
+    ],
+    "proper_name": false,
+    "source_page": 235,
+    "source_image": "upload/IMG_2587.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "75bf5044b3c079b874019b4f",
+    "unit": 8,
+    "volet": 1,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "Levallois",
+    "german": "Levallois-Perret: Vorort von Paris",
+    "french_forms": [
+      "Levallois"
+    ],
+    "proper_name": true,
+    "source_page": 235,
+    "source_image": "upload/IMG_2587.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "a73ef3c27c258d6adf4e8bbe",
+    "unit": 8,
+    "volet": 1,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "le Tour de France",
+    "german": "berühmtes Radrennen durch Frankreich",
+    "french_forms": [
+      "le Tour de France"
+    ],
+    "proper_name": true,
+    "source_page": 235,
+    "source_image": "upload/IMG_2587.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "4f15d14d6711e8a0a676a08d",
+    "unit": 8,
+    "volet": 1,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "Paris Plages",
+    "german": "sommerliche Pariser Veranstaltung mit künstlichem Strand an der Seine",
+    "french_forms": [
+      "Paris Plages"
+    ],
+    "proper_name": true,
+    "source_page": 235,
+    "source_image": "upload/IMG_2587.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "d12e18c47dcc5efab3fab943",
+    "unit": 8,
+    "volet": 1,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "les Pyrénées",
+    "german": "die Pyrenäen",
+    "french_forms": [
+      "les Pyrénées"
+    ],
+    "proper_name": true,
+    "source_page": 235,
+    "source_image": "upload/IMG_2587.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "2f8a402e1056c45b41e237fa",
+    "unit": 8,
+    "volet": 1,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "la randonnée",
+    "german": "die Wanderung",
+    "french_forms": [
+      "la randonnée"
+    ],
+    "proper_name": false,
+    "source_page": 235,
+    "source_image": "upload/IMG_2587.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "6eb6e5d3226235bd24010e9d",
+    "unit": 8,
+    "volet": 1,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "en montagne",
+    "german": "in den Bergen",
+    "french_forms": [
+      "en montagne"
+    ],
+    "proper_name": false,
+    "source_page": 235,
+    "source_image": "upload/IMG_2587.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "c6a708dd6e815c1f855b8c64",
+    "unit": 8,
+    "volet": 1,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "faire du camping",
+    "german": "zelten",
+    "french_forms": [
+      "faire du camping"
+    ],
+    "proper_name": false,
+    "source_page": 235,
+    "source_image": "upload/IMG_2587.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "48fdf5f2556b911a1e0b8474",
+    "unit": 8,
+    "volet": 1,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "le camping",
+    "german": "das Zelten; der Zeltplatz; der Campingplatz",
+    "french_forms": [
+      "le camping"
+    ],
+    "proper_name": false,
+    "source_page": 235,
+    "source_image": "upload/IMG_2587.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "97ab72773d057da4ff14ccf6",
+    "unit": 8,
+    "volet": 1,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "Quelle chance!",
+    "german": "Was für ein Glück!",
+    "french_forms": [
+      "Quelle chance!"
+    ],
+    "proper_name": false,
+    "source_page": 235,
+    "source_image": "upload/IMG_2587.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "7b19f206816e261029684f57",
+    "unit": 8,
+    "volet": 1,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "la chance",
+    "german": "das Glück; die Chance",
+    "french_forms": [
+      "la chance"
+    ],
+    "proper_name": false,
+    "source_page": 235,
+    "source_image": "upload/IMG_2587.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "7e23711638eb9a0cd7d4094e",
+    "unit": 8,
+    "volet": 1,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "j'aimerais",
+    "german": "ich würde gern (+ Infinitiv)",
+    "french_forms": [
+      "j'aimerais"
+    ],
+    "proper_name": false,
+    "source_page": 235,
+    "source_image": "upload/IMG_2587.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "064699b4fbde3b6b30f74591",
+    "unit": 8,
+    "volet": 1,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "rester",
+    "german": "bleiben",
+    "french_forms": [
+      "rester"
+    ],
+    "proper_name": false,
+    "source_page": 235,
+    "source_image": "upload/IMG_2587.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "37089b96c9aa5f2982169937",
+    "unit": 8,
+    "volet": 1,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "la Volerie des Aigles",
+    "german": "Adlerpark in den Vogesen",
+    "french_forms": [
+      "la Volerie des Aigles"
+    ],
+    "proper_name": true,
+    "source_page": 235,
+    "source_image": "upload/IMG_2587.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "14f5f5d43ac9239eb3839f54",
+    "unit": 8,
+    "volet": 1,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "la Suisse",
+    "german": "die Schweiz",
+    "french_forms": [
+      "la Suisse"
+    ],
+    "proper_name": true,
+    "source_page": 235,
+    "source_image": "upload/IMG_2587.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "4198260a97d218b443098e57",
+    "unit": 8,
+    "volet": 1,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "au bord du lac",
+    "german": "am See; am Seeufer",
+    "french_forms": [
+      "au bord du lac"
+    ],
+    "proper_name": false,
+    "source_page": 235,
+    "source_image": "upload/IMG_2587.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "fd5b95df8c9689107105d32f",
+    "unit": 8,
+    "volet": 1,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "le lac",
+    "german": "der See",
+    "french_forms": [
+      "le lac"
+    ],
+    "proper_name": false,
+    "source_page": 235,
+    "source_image": "upload/IMG_2587.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "fcaf81d6daee88899f9ffe4e",
+    "unit": 8,
+    "volet": 1,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "le lac Léman",
+    "german": "der Genfer See",
+    "french_forms": [
+      "le lac Léman"
+    ],
+    "proper_name": true,
+    "source_page": 235,
+    "source_image": "upload/IMG_2587.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "2e08feb1c15531ce1e1785ba",
+    "unit": 8,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "le souvenir",
+    "german": "die Erinnerung",
+    "french_forms": [
+      "le souvenir"
+    ],
+    "proper_name": false,
+    "source_page": 236,
+    "source_image": "upload/IMG_2588.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "e000fd25c8114f352e68513a",
+    "unit": 8,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "l'été",
+    "german": "der Sommer",
+    "french_forms": [
+      "l'été"
+    ],
+    "proper_name": false,
+    "source_page": 236,
+    "source_image": "upload/IMG_2588.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "de18501cd04753ca0abb8dd0",
+    "unit": 8,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "le métro",
+    "german": "die U-Bahn",
+    "french_forms": [
+      "le métro"
+    ],
+    "proper_name": false,
+    "source_page": 236,
+    "source_image": "upload/IMG_2588.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "2eeeac40683b1b62220ba361",
+    "unit": 8,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "Ça y est!",
+    "german": "Geschafft!",
+    "french_forms": [
+      "Ça y est!"
+    ],
+    "proper_name": false,
+    "source_page": 236,
+    "source_image": "upload/IMG_2588.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "820bc1cc75019b65258b570c",
+    "unit": 8,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "Il fait beau.",
+    "german": "Es ist schönes Wetter.",
+    "french_forms": [
+      "Il fait beau."
+    ],
+    "proper_name": false,
+    "source_page": 236,
+    "source_image": "upload/IMG_2588.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "c2c80ebfeca6d0c20fd00f43",
+    "unit": 8,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "le soleil",
+    "german": "die Sonne",
+    "french_forms": [
+      "le soleil"
+    ],
+    "proper_name": false,
+    "source_page": 236,
+    "source_image": "upload/IMG_2588.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "76c0df98c11241e02b169372",
+    "unit": 8,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "monter (sur qc)",
+    "german": "hinaufsteigen; hochfahren",
+    "french_forms": [
+      "monter (sur qc)"
+    ],
+    "proper_name": false,
+    "source_page": 236,
+    "source_image": "upload/IMG_2588.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "b3ab94651b33b907031cf21d",
+    "unit": 8,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "la tour Eiffel",
+    "german": "der Eiffelturm",
+    "french_forms": [
+      "la tour Eiffel"
+    ],
+    "proper_name": true,
+    "source_page": 236,
+    "source_image": "upload/IMG_2588.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "dada60420ba08da3dc0ca28d",
+    "unit": 8,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "quand",
+    "german": "wenn; immer wenn",
+    "french_forms": [
+      "quand"
+    ],
+    "proper_name": false,
+    "source_page": 236,
+    "source_image": "upload/IMG_2588.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "395e67243d5024147c4a9059",
+    "unit": 8,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "le temps",
+    "german": "das Wetter; die Zeit",
+    "french_forms": [
+      "le temps"
+    ],
+    "proper_name": false,
+    "source_page": 236,
+    "source_image": "upload/IMG_2588.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "31b3230177c2ae8802a37063",
+    "unit": 8,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "génial / géniale",
+    "german": "toll; genial; super",
+    "french_forms": [
+      "génial",
+      "géniale"
+    ],
+    "proper_name": false,
+    "source_page": 236,
+    "source_image": "upload/IMG_2588.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "a5950ffe610d43875313740d",
+    "unit": 8,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "Il pleut.",
+    "german": "Es regnet.",
+    "french_forms": [
+      "Il pleut."
+    ],
+    "proper_name": false,
+    "source_page": 236,
+    "source_image": "upload/IMG_2588.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "9bf5b802ce03ac5afa665e03",
+    "unit": 8,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "observer qn/qc",
+    "german": "jemanden/etwas beobachten",
+    "french_forms": [
+      "observer qn/qc"
+    ],
+    "proper_name": false,
+    "source_page": 236,
+    "source_image": "upload/IMG_2588.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "62f3b6ff7e037bdbc08c8a3b",
+    "unit": 8,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "les jumelles",
+    "german": "das Fernglas",
+    "french_forms": [
+      "les jumelles"
+    ],
+    "proper_name": false,
+    "source_page": 236,
+    "source_image": "upload/IMG_2588.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "3d45f8c222a50c44ee9379d6",
+    "unit": 8,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "la nuit",
+    "german": "die Nacht; nachts",
+    "french_forms": [
+      "la nuit"
+    ],
+    "proper_name": false,
+    "source_page": 236,
+    "source_image": "upload/IMG_2588.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "d3f095b08c93aa71f07140cd",
+    "unit": 8,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "Il fait froid.",
+    "german": "Es ist kalt.",
+    "french_forms": [
+      "Il fait froid."
+    ],
+    "proper_name": false,
+    "source_page": 236,
+    "source_image": "upload/IMG_2588.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "de0e3e05f6ca98f0ad5f7e05",
+    "unit": 8,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "sous la tente",
+    "german": "im Zelt",
+    "french_forms": [
+      "sous la tente"
+    ],
+    "proper_name": false,
+    "source_page": 236,
+    "source_image": "upload/IMG_2588.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "e94010112a9cb31bf70cdc15",
+    "unit": 8,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "la tente",
+    "german": "das Zelt",
+    "french_forms": [
+      "la tente"
+    ],
+    "proper_name": false,
+    "source_page": 236,
+    "source_image": "upload/IMG_2588.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "148978075ce530191cc73e1c",
+    "unit": 8,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "prendre des photos",
+    "german": "Fotos machen",
+    "french_forms": [
+      "prendre des photos"
+    ],
+    "proper_name": false,
+    "source_page": 236,
+    "source_image": "upload/IMG_2588.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "689721df025007b695499ed5",
+    "unit": 8,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "un tas de",
+    "german": "eine Menge; ein Haufen",
+    "french_forms": [
+      "un tas de"
+    ],
+    "proper_name": false,
+    "source_page": 236,
+    "source_image": "upload/IMG_2588.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "ba6988a1c9acaca054dbbba1",
+    "unit": 8,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "beaucoup de monde",
+    "german": "viele Leute",
+    "french_forms": [
+      "beaucoup de monde"
+    ],
+    "proper_name": false,
+    "source_page": 237,
+    "source_image": "upload/IMG_2589.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "99690bcca1dc0473f0a2dde3",
+    "unit": 8,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "français / française",
+    "german": "französisch",
+    "french_forms": [
+      "français",
+      "française"
+    ],
+    "proper_name": false,
+    "source_page": 237,
+    "source_image": "upload/IMG_2589.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "2112d74c5a1da955746cbfff",
+    "unit": 8,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "allemand / allemande",
+    "german": "deutsch",
+    "french_forms": [
+      "allemand",
+      "allemande"
+    ],
+    "proper_name": false,
+    "source_page": 237,
+    "source_image": "upload/IMG_2589.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "000a1af36272fcaacfcaeb36",
+    "unit": 8,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "anglais / anglaise",
+    "german": "englisch",
+    "french_forms": [
+      "anglais",
+      "anglaise"
+    ],
+    "proper_name": false,
+    "source_page": 237,
+    "source_image": "upload/IMG_2589.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "4304d1acf1352906ff00bc76",
+    "unit": 8,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "le VTT / le vélo tout-terrain",
+    "german": "das Mountainbike",
+    "french_forms": [
+      "le VTT",
+      "le vélo tout-terrain"
+    ],
+    "proper_name": false,
+    "source_page": 237,
+    "source_image": "upload/IMG_2589.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "0f0216c14553ea761e465834",
+    "unit": 8,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "la station",
+    "german": "die Station; die Haltestelle",
+    "french_forms": [
+      "la station"
+    ],
+    "proper_name": false,
+    "source_page": 237,
+    "source_image": "upload/IMG_2589.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "2464a45158fda9536e441a66",
+    "unit": 8,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "Trocadéro",
+    "german": "U-Bahnstation in Paris in der Nähe des Eiffelturms",
+    "french_forms": [
+      "Trocadéro"
+    ],
+    "proper_name": true,
+    "source_page": 237,
+    "source_image": "upload/IMG_2589.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "54a245aee2132f32103f26c8",
+    "unit": 8,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "la tour",
+    "german": "der Turm",
+    "french_forms": [
+      "la tour"
+    ],
+    "proper_name": false,
+    "source_page": 237,
+    "source_image": "upload/IMG_2589.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "102de5e1bb97c54f5e451950",
+    "unit": 8,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "immense",
+    "german": "riesig",
+    "french_forms": [
+      "immense"
+    ],
+    "proper_name": false,
+    "source_page": 237,
+    "source_image": "upload/IMG_2589.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "699e713a90dbfe1a3192e178",
+    "unit": 8,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "Ça va être long!",
+    "german": "Das wird dauern!",
+    "french_forms": [
+      "Ça va être long!"
+    ],
+    "proper_name": false,
+    "source_page": 237,
+    "source_image": "upload/IMG_2589.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "c087ebade662fb0c7668f676",
+    "unit": 8,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "long / longue",
+    "german": "lang",
+    "french_forms": [
+      "long",
+      "longue"
+    ],
+    "proper_name": false,
+    "source_page": 237,
+    "source_image": "upload/IMG_2589.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "df215c80795f951d2a390a0b",
+    "unit": 8,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "Il fait chaud.",
+    "german": "Es ist warm; Es ist heiß.",
+    "french_forms": [
+      "Il fait chaud."
+    ],
+    "proper_name": false,
+    "source_page": 237,
+    "source_image": "upload/IMG_2589.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "4ca8a6eac681485c12d27444",
+    "unit": 8,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "nager",
+    "german": "schwimmen",
+    "french_forms": [
+      "nager"
+    ],
+    "proper_name": false,
+    "source_page": 237,
+    "source_image": "upload/IMG_2589.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "711f60dde400a04d842e56ad",
+    "unit": 8,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "la mer",
+    "german": "das Meer; die See",
+    "french_forms": [
+      "la mer"
+    ],
+    "proper_name": false,
+    "source_page": 237,
+    "source_image": "upload/IMG_2589.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "8d277278c9d8c1fbaa7810a9",
+    "unit": 8,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "toujours",
+    "german": "immer noch",
+    "french_forms": [
+      "toujours"
+    ],
+    "proper_name": false,
+    "source_page": 237,
+    "source_image": "upload/IMG_2589.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "b229e3693d2bd11e06f6a6a8",
+    "unit": 8,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "le cheval / les chevaux",
+    "german": "das Pferd",
+    "french_forms": [
+      "le cheval",
+      "les chevaux"
+    ],
+    "proper_name": false,
+    "source_page": 237,
+    "source_image": "upload/IMG_2589.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "868f0b346b5d5531a257f815",
+    "unit": 8,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "prendre en photo qc",
+    "german": "etwas fotografieren",
+    "french_forms": [
+      "prendre en photo qc"
+    ],
+    "proper_name": false,
+    "source_page": 237,
+    "source_image": "upload/IMG_2589.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "0e8e95a96200ae47f40832c9",
+    "unit": 8,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "fêter qc",
+    "german": "etwas feiern",
+    "french_forms": [
+      "fêter qc"
+    ],
+    "proper_name": false,
+    "source_page": 237,
+    "source_image": "upload/IMG_2589.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "7f66ec841c066d2177cc4d76",
+    "unit": 8,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "le feu d'artifice / les feux d'artifice",
+    "german": "das Feuerwerk",
+    "french_forms": [
+      "le feu d'artifice",
+      "les feux d'artifice"
+    ],
+    "proper_name": false,
+    "source_page": 237,
+    "source_image": "upload/IMG_2589.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "c7fe36e68e37564b1d35499e",
+    "unit": 8,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "le défilé",
+    "german": "der Parademarsch",
+    "french_forms": [
+      "le défilé"
+    ],
+    "proper_name": false,
+    "source_page": 237,
+    "source_image": "upload/IMG_2589.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "181b13637ea8c37d364b299d",
+    "unit": 8,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "les Champs-Élysées",
+    "german": "Prachtboulevard in Paris",
+    "french_forms": [
+      "les Champs-Élysées"
+    ],
+    "proper_name": true,
+    "source_page": 238,
+    "source_image": "upload/IMG_2590.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "b0e2ec7c06f95e710e705c4d",
+    "unit": 8,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "la vue",
+    "german": "die Aussicht",
+    "french_forms": [
+      "la vue"
+    ],
+    "proper_name": false,
+    "source_page": 238,
+    "source_image": "upload/IMG_2590.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "74a0c8a3ac6c3d426f69b460",
+    "unit": 8,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "magnifique",
+    "german": "wunderschön",
+    "french_forms": [
+      "magnifique"
+    ],
+    "proper_name": false,
+    "source_page": 238,
+    "source_image": "upload/IMG_2590.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "aae7b0f25e31fe9123f7ed1b",
+    "unit": 8,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "le château de Versailles",
+    "german": "Schloss von Ludwig XIV. in der Nähe von Paris",
+    "french_forms": [
+      "le château de Versailles"
+    ],
+    "proper_name": true,
+    "source_page": 238,
+    "source_image": "upload/IMG_2590.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "050315311979209fd7139351",
+    "unit": 8,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "le château / les châteaux",
+    "german": "das Schloss",
+    "french_forms": [
+      "le château",
+      "les châteaux"
+    ],
+    "proper_name": false,
+    "source_page": 238,
+    "source_image": "upload/IMG_2590.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "3485612133bd93f9021bbe7e",
+    "unit": 8,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "Notre-Dame",
+    "german": "Kathedrale in Paris",
+    "french_forms": [
+      "Notre-Dame"
+    ],
+    "proper_name": true,
+    "source_page": 238,
+    "source_image": "upload/IMG_2590.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "16165544800088f5b0561b0a",
+    "unit": 8,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "la carte",
+    "german": "die Postkarte",
+    "french_forms": [
+      "la carte"
+    ],
+    "proper_name": false,
+    "source_page": 238,
+    "source_image": "upload/IMG_2590.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "faeaec06b7b236c1f9366913",
+    "unit": 8,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "À bientôt!",
+    "german": "Bis bald!",
+    "french_forms": [
+      "À bientôt!"
+    ],
+    "proper_name": false,
+    "source_page": 238,
+    "source_image": "upload/IMG_2590.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "b9e9b661135e798a0632d7a7",
+    "unit": 8,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "Mademoiselle / Mlle",
+    "german": "Fräulein (Anrede einer jungen Frau)",
+    "french_forms": [
+      "Mademoiselle",
+      "Mlle"
+    ],
+    "proper_name": false,
+    "source_page": 238,
+    "source_image": "upload/IMG_2590.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "1ccf29538d147a8efc146d6d",
+    "unit": 8,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "Il neige.",
+    "german": "Es schneit.",
+    "french_forms": [
+      "Il neige."
+    ],
+    "proper_name": false,
+    "source_page": 238,
+    "source_image": "upload/IMG_2590.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "62434f291827439f188b2b85",
+    "unit": 8,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "Il y a du vent.",
+    "german": "Es ist windig.",
+    "french_forms": [
+      "Il y a du vent."
+    ],
+    "proper_name": false,
+    "source_page": 238,
+    "source_image": "upload/IMG_2590.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "cac0d1692d1d457a91fb8eb0",
+    "unit": 8,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "le printemps",
+    "german": "der Frühling",
+    "french_forms": [
+      "le printemps"
+    ],
+    "proper_name": false,
+    "source_page": 238,
+    "source_image": "upload/IMG_2590.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "2571a4719081d37f6938de8c",
+    "unit": 8,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "l'automne",
+    "german": "der Herbst",
+    "french_forms": [
+      "l'automne"
+    ],
+    "proper_name": false,
+    "source_page": 238,
+    "source_image": "upload/IMG_2590.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "4bf4d4c6c1ea6cbd36bef0d3",
+    "unit": 8,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "l'hiver",
+    "german": "der Winter",
+    "french_forms": [
+      "l'hiver"
+    ],
+    "proper_name": false,
+    "source_page": 238,
+    "source_image": "upload/IMG_2590.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "a3300c63f5d466fcac7dbc1a",
+    "unit": 8,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "au printemps",
+    "german": "im Frühling",
+    "french_forms": [
+      "au printemps"
+    ],
+    "proper_name": false,
+    "source_page": 238,
+    "source_image": "upload/IMG_2590.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "8db1329d57b838085b312089",
+    "unit": 8,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "en été",
+    "german": "im Sommer",
+    "french_forms": [
+      "en été"
+    ],
+    "proper_name": false,
+    "source_page": 238,
+    "source_image": "upload/IMG_2590.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "b46e23388400c76609b9e8c8",
+    "unit": 8,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "en automne",
+    "german": "im Herbst",
+    "french_forms": [
+      "en automne"
+    ],
+    "proper_name": false,
+    "source_page": 238,
+    "source_image": "upload/IMG_2590.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "7eb13d286b1cd1273e823ea6",
+    "unit": 8,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "en hiver",
+    "german": "im Winter",
+    "french_forms": [
+      "en hiver"
+    ],
+    "proper_name": false,
+    "source_page": 238,
+    "source_image": "upload/IMG_2590.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  },
+  {
+    "id": "74a48f6d122a3a318f673192",
+    "unit": 8,
+    "volet": 2,
+    "section_type": "unit",
+    "module_number": null,
+    "french": "Je t'embrasse.",
+    "german": "Liebe Grüße! (in einem Brief)",
+    "french_forms": [
+      "Je t'embrasse."
+    ],
+    "proper_name": false,
+    "source_page": 238,
+    "source_image": "upload/IMG_2590.jpeg",
+    "review_status": "visually_transcribed",
+    "notes": ""
+  }
+]
