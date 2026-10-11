@@ -1,4 +1,3 @@
-// Optional: Public Supabase project URL and publishable/anon key.
-// Both are public browser values. NEVER put service_role keys or database passwords here.
-window.BRUNO_SUPABASE_URL = '';
-window.BRUNO_SUPABASE_ANON_KEY = '';
+// Public browser configuration for Bruno Battle.
+window.BRUNO_SUPABASE_URL = 'https://mdyxpvyrbhodmbcdxaxi.supabase.co';
+window.BRUNO_SUPABASE_ANON_KEY = 'sb_publishable_XIsFeuOzzJRAyG1AljAQXA_zrej1KKY';
