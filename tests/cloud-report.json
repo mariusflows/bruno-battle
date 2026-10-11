@@ -1,0 +1,14 @@
+{
+  "passed": [
+    "Upload saves profile and completed battle",
+    "Repeated sync does not duplicate battle",
+    "Upload failure persists local session; retry uploads missing battle",
+    "Concurrent device update is detected instead of overwritten",
+    "Profile save failure is not reported as success",
+    "Remote and local answers merge without losing either",
+    "Reset cannot be undone by an old remote state and clears old ranking",
+    "Deletion tombstone prevents resurrection on sync",
+    "Account switch isolates local profiles"
+  ],
+  "backend": "in-memory Supabase API simulation; no live authenticated database"
+}

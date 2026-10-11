@@ -26,7 +26,7 @@ create table if not exists public.battle_results (
   owner_id uuid not null references auth.users(id) on delete cascade,
   profile_id uuid not null references public.profiles(id) on delete cascade,
   nickname text not null check (char_length(nickname) between 1 and 24),
-  unit int not null check (unit between 1 and 6),
+  unit int not null check (unit between 1 and 8),
   opponent int not null check (opponent between 0 and 2),
   points int not null check (points between 0 and 50000),
   accuracy int not null check (accuracy between 0 and 100),
@@ -52,3 +52,7 @@ grant select,insert,update,delete on public.profiles to authenticated;
 grant select,insert,delete on public.battle_results to authenticated;
 revoke all on public.profiles from anon;
 revoke all on public.battle_results from anon;
+
+-- Upgrade older schemas that still limited the app to six Units.
+alter table public.battle_results drop constraint if exists battle_results_unit_check;
+alter table public.battle_results add constraint battle_results_unit_check check (unit between 1 and 8);

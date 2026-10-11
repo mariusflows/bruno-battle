@@ -1,0 +1,18 @@
+{
+  "passed": [
+    "All data entries valid; question IDs unique; no empty MC distractors",
+    "Every Unit/Volet boundary, exact and cumulative, across all 8 Units",
+    "Module cutoff: earlier completed Units only until partial Unit",
+    "No solution-bearing context on translation and gap tasks",
+    "Answer variants, accents and apostrophes",
+    "UI scope selectors and graceful empty categories",
+    "Round persists after navigation and reload; cannot double-score",
+    "Complete training: one SVG data point and stable result after reload",
+    "Mistakes retire after correct answer; unknown legacy IDs excluded",
+    "Battle completes, unlocks next opponent, scores once, Unit isolation",
+    "All navigation routes render in DOM",
+    "Profile reset, deletion and independent players",
+    "Merge preserves both devices; reset and deletion rules"
+  ],
+  "errors": []
+}

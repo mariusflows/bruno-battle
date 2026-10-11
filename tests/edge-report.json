@@ -1,0 +1,10 @@
+{
+  "passed": [
+    "All question formats render and accept their model answer",
+    "Dynamic Volet selection includes U3/V4 and limits U8 to V1/V2",
+    "Navigation preserves unsent typing and sorted words",
+    "Old profile XP and session history survive migration",
+    "New post-reset answers survive merge; stale epoch answers do not",
+    "First account claim clears guest copy before another account signs in"
+  ]
+}
